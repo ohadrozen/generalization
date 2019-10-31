@@ -1,0 +1,2432 @@
+#****** Set Name: T2_write_2b; Lexical: MNLI; Syntax: MNLI; Other:  *****
+########### Template: 0; Tense: UNK; Syntax: UNK; ##############
+### Hypothesis: 0
+# *then* *i* read *mr. carter* *my letter* *and rang up sir james*.
+# *then* *i* read *my letter* to *mr. carter* *and rang up sir james*.
+# entailment
+# *then*: at home; next; yesterday; 
+# *i*: the secretary; yours truely; james; 
+# *mr. carter*: my mother; him; the headmistress; 
+# *my letter*: an email; my postcard; my testament; 
+# *and rang up sir james*: for thanking him; simply because i was tired; and had a parcel sent off; 
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother an email simply because i was tired.
+at home the secretary read an email to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother my postcard simply because i was tired.
+at home the secretary read my postcard to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him an email for thanking him.
+at home the secretary read an email to him for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him my postcard simply because i was tired.
+at home the secretary read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him my testament simply because i was tired.
+at home the secretary read my testament to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress an email simply because i was tired.
+at home the secretary read an email to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress my postcard for thanking him.
+at home the secretary read my postcard to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress my postcard simply because i was tired.
+at home the secretary read my postcard to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read the headmistress my postcard and had a parcel sent off.
+at home the secretary read my postcard to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother an email for thanking him.
+at home yours truely read an email to my mother for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother my testament for thanking him.
+at home yours truely read my testament to my mother for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him an email simply because i was tired.
+at home yours truely read an email to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my postcard for thanking him.
+at home yours truely read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him my postcard simply because i was tired.
+at home yours truely read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him my postcard and had a parcel sent off.
+at home yours truely read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my testament for thanking him.
+at home yours truely read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress an email and had a parcel sent off.
+at home yours truely read an email to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress my postcard and had a parcel sent off.
+at home yours truely read my postcard to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read the headmistress my testament for thanking him.
+at home yours truely read my testament to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress my testament and had a parcel sent off.
+at home yours truely read my testament to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother an email for thanking him.
+at home james read an email to my mother for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother an email and had a parcel sent off.
+at home james read an email to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother my postcard simply because i was tired.
+at home james read my postcard to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother my postcard and had a parcel sent off.
+at home james read my postcard to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother my testament for thanking him.
+at home james read my testament to my mother for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother my testament simply because i was tired.
+at home james read my testament to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother my testament and had a parcel sent off.
+at home james read my testament to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him an email simply because i was tired.
+at home james read an email to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him an email and had a parcel sent off.
+at home james read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him my postcard for thanking him.
+at home james read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him my postcard simply because i was tired.
+at home james read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him my testament for thanking him.
+at home james read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him my testament and had a parcel sent off.
+at home james read my testament to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read the headmistress an email for thanking him.
+at home james read an email to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read the headmistress an email simply because i was tired.
+at home james read an email to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read the headmistress my postcard simply because i was tired.
+at home james read my postcard to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read the headmistress my postcard and had a parcel sent off.
+at home james read my postcard to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother an email simply because i was tired.
+next the secretary read an email to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read my mother an email and had a parcel sent off.
+next the secretary read an email to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother my testament simply because i was tired.
+next the secretary read my testament to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him an email simply because i was tired.
+next the secretary read an email to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him an email and had a parcel sent off.
+next the secretary read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my postcard for thanking him.
+next the secretary read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him my postcard simply because i was tired.
+next the secretary read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him my postcard and had a parcel sent off.
+next the secretary read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my testament for thanking him.
+next the secretary read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him my testament simply because i was tired.
+next the secretary read my testament to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress an email for thanking him.
+next the secretary read an email to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my postcard for thanking him.
+next the secretary read my postcard to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress my postcard and had a parcel sent off.
+next the secretary read my postcard to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my testament for thanking him.
+next the secretary read my testament to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress my testament simply because i was tired.
+next the secretary read my testament to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress my testament and had a parcel sent off.
+next the secretary read my testament to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother an email simply because i was tired.
+next yours truely read an email to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read my mother my postcard for thanking him.
+next yours truely read my postcard to my mother for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother my postcard simply because i was tired.
+next yours truely read my postcard to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother my testament and had a parcel sent off.
+next yours truely read my testament to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him an email and had a parcel sent off.
+next yours truely read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read him my postcard for thanking him.
+next yours truely read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read him my postcard simply because i was tired.
+next yours truely read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him my postcard and had a parcel sent off.
+next yours truely read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress an email simply because i was tired.
+next yours truely read an email to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress an email and had a parcel sent off.
+next yours truely read an email to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress my postcard simply because i was tired.
+next yours truely read my postcard to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read the headmistress my testament for thanking him.
+next yours truely read my testament to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress my testament and had a parcel sent off.
+next yours truely read my testament to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother an email simply because i was tired.
+next james read an email to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother my postcard simply because i was tired.
+next james read my postcard to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother my testament simply because i was tired.
+next james read my testament to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him an email and had a parcel sent off.
+next james read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next james read him my postcard for thanking him.
+next james read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him my postcard simply because i was tired.
+next james read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him my postcard and had a parcel sent off.
+next james read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next james read him my testament for thanking him.
+next james read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him my testament simply because i was tired.
+next james read my testament to him simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him my testament and had a parcel sent off.
+next james read my testament to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read the headmistress my postcard and had a parcel sent off.
+next james read my postcard to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next james read the headmistress my testament for thanking him.
+next james read my testament to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my postcard for thanking him.
+yesterday the secretary read my postcard to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read my mother my postcard simply because i was tired.
+yesterday the secretary read my postcard to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my testament for thanking him.
+yesterday the secretary read my testament to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my postcard for thanking him.
+yesterday the secretary read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him my postcard and had a parcel sent off.
+yesterday the secretary read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my testament for thanking him.
+yesterday the secretary read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him my testament simply because i was tired.
+yesterday the secretary read my testament to him simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read the headmistress an email and had a parcel sent off.
+yesterday the secretary read an email to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read the headmistress my postcard for thanking him.
+yesterday the secretary read my postcard to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress my postcard simply because i was tired.
+yesterday the secretary read my postcard to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress my testament simply because i was tired.
+yesterday the secretary read my testament to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother an email for thanking him.
+yesterday yours truely read an email to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother an email simply because i was tired.
+yesterday yours truely read an email to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother my postcard for thanking him.
+yesterday yours truely read my postcard to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother my testament for thanking him.
+yesterday yours truely read my testament to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother my testament simply because i was tired.
+yesterday yours truely read my testament to my mother simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him an email simply because i was tired.
+yesterday yours truely read an email to him simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him an email and had a parcel sent off.
+yesterday yours truely read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him my postcard simply because i was tired.
+yesterday yours truely read my postcard to him simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him my postcard and had a parcel sent off.
+yesterday yours truely read my postcard to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him my testament for thanking him.
+yesterday yours truely read my testament to him for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him my testament and had a parcel sent off.
+yesterday yours truely read my testament to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read the headmistress an email for thanking him.
+yesterday yours truely read an email to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress an email simply because i was tired.
+yesterday yours truely read an email to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress my testament simply because i was tired.
+yesterday yours truely read my testament to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress my testament and had a parcel sent off.
+yesterday yours truely read my testament to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother an email for thanking him.
+yesterday james read an email to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother my postcard for thanking him.
+yesterday james read my postcard to my mother for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother my postcard and had a parcel sent off.
+yesterday james read my postcard to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother my testament and had a parcel sent off.
+yesterday james read my testament to my mother and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him an email for thanking him.
+yesterday james read an email to him for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him an email simply because i was tired.
+yesterday james read an email to him simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him an email and had a parcel sent off.
+yesterday james read an email to him and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him my postcard for thanking him.
+yesterday james read my postcard to him for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress an email for thanking him.
+yesterday james read an email to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress an email simply because i was tired.
+yesterday james read an email to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress an email and had a parcel sent off.
+yesterday james read an email to the headmistress and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress my postcard simply because i was tired.
+yesterday james read my postcard to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress my testament for thanking him.
+yesterday james read my testament to the headmistress for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress my testament simply because i was tired.
+yesterday james read my testament to the headmistress simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress my testament and had a parcel sent off.
+yesterday james read my testament to the headmistress and had a parcel sent off.
+entailment
+
+### Hypothesis: 1
+# *then* *i* read *mr. carter* *my letter* *and rang up sir james*.
+# *then* *i* read *my letter* *and rang up sir james*.
+# entailment
+# *then*: at home; next; yesterday; 
+# *i*: the secretary; yours truely; james; 
+# *mr. carter*: my mother; him; the headmistress; 
+# *my letter*: an email; my postcard; my testament; 
+# *and rang up sir james*: for thanking him; simply because i was tired; and had a parcel sent off; 
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read my mother an email for thanking him.
+at home the secretary read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother an email simply because i was tired.
+at home the secretary read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read my mother an email and had a parcel sent off.
+at home the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read my mother my postcard for thanking him.
+at home the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him an email for thanking him.
+at home the secretary read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him an email simply because i was tired.
+at home the secretary read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him an email and had a parcel sent off.
+at home the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him my postcard for thanking him.
+at home the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him my postcard simply because i was tired.
+at home the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him my postcard and had a parcel sent off.
+at home the secretary read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him my testament and had a parcel sent off.
+at home the secretary read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress an email for thanking him.
+at home the secretary read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress my postcard simply because i was tired.
+at home the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read the headmistress my postcard and had a parcel sent off.
+at home the secretary read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress my testament for thanking him.
+at home the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress my testament simply because i was tired.
+at home the secretary read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother my postcard for thanking him.
+at home yours truely read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read my mother my postcard simply because i was tired.
+at home yours truely read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read my mother my postcard and had a parcel sent off.
+at home yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read my mother my testament and had a parcel sent off.
+at home yours truely read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him an email for thanking him.
+at home yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him an email and had a parcel sent off.
+at home yours truely read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my postcard for thanking him.
+at home yours truely read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my testament for thanking him.
+at home yours truely read my testament for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him my testament simply because i was tired.
+at home yours truely read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him my testament and had a parcel sent off.
+at home yours truely read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read the headmistress an email for thanking him.
+at home yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read the headmistress my postcard simply because i was tired.
+at home yours truely read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read the headmistress my testament simply because i was tired.
+at home yours truely read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother my postcard simply because i was tired.
+at home james read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother my postcard and had a parcel sent off.
+at home james read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother my testament for thanking him.
+at home james read my testament for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him an email for thanking him.
+at home james read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him an email and had a parcel sent off.
+at home james read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him my postcard for thanking him.
+at home james read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him my postcard and had a parcel sent off.
+at home james read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him my testament simply because i was tired.
+at home james read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read the headmistress an email for thanking him.
+at home james read an email for thanking him.
+entailment
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read the headmistress my postcard and had a parcel sent off.
+at home james read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother my postcard simply because i was tired.
+next the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read my mother my testament for thanking him.
+next the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my postcard for thanking him.
+next the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him my postcard and had a parcel sent off.
+next the secretary read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my testament for thanking him.
+next the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him my testament simply because i was tired.
+next the secretary read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress an email simply because i was tired.
+next the secretary read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress an email and had a parcel sent off.
+next the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my postcard for thanking him.
+next the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress my postcard simply because i was tired.
+next the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my testament for thanking him.
+next the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress my testament simply because i was tired.
+next the secretary read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother an email simply because i was tired.
+next yours truely read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother an email and had a parcel sent off.
+next yours truely read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother my postcard and had a parcel sent off.
+next yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read him an email for thanking him.
+next yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read him an email simply because i was tired.
+next yours truely read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him my postcard and had a parcel sent off.
+next yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress an email and had a parcel sent off.
+next yours truely read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress my postcard and had a parcel sent off.
+next yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read the headmistress my testament for thanking him.
+next yours truely read my testament for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress my testament simply because i was tired.
+next yours truely read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next james read my mother an email for thanking him.
+next james read an email for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read my mother my postcard and had a parcel sent off.
+next james read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read my mother my testament and had a parcel sent off.
+next james read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him an email simply because i was tired.
+next james read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him an email and had a parcel sent off.
+next james read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him my postcard simply because i was tired.
+next james read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him my testament and had a parcel sent off.
+next james read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read the headmistress an email and had a parcel sent off.
+next james read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next james read the headmistress my postcard for thanking him.
+next james read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read the headmistress my postcard simply because i was tired.
+next james read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read the headmistress my testament simply because i was tired.
+next james read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read my mother an email and had a parcel sent off.
+yesterday the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my postcard for thanking him.
+yesterday the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read my mother my postcard simply because i was tired.
+yesterday the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read my mother my postcard and had a parcel sent off.
+yesterday the secretary read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my testament for thanking him.
+yesterday the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him an email for thanking him.
+yesterday the secretary read an email for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him an email simply because i was tired.
+yesterday the secretary read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him an email and had a parcel sent off.
+yesterday the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my postcard for thanking him.
+yesterday the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my testament for thanking him.
+yesterday the secretary read my testament for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him my testament simply because i was tired.
+yesterday the secretary read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him my testament and had a parcel sent off.
+yesterday the secretary read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress an email simply because i was tired.
+yesterday the secretary read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read the headmistress an email and had a parcel sent off.
+yesterday the secretary read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read the headmistress my postcard for thanking him.
+yesterday the secretary read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress my postcard simply because i was tired.
+yesterday the secretary read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother an email for thanking him.
+yesterday yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother my postcard for thanking him.
+yesterday yours truely read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother my postcard simply because i was tired.
+yesterday yours truely read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read my mother my postcard and had a parcel sent off.
+yesterday yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him an email for thanking him.
+yesterday yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him an email simply because i was tired.
+yesterday yours truely read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him my postcard for thanking him.
+yesterday yours truely read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him my postcard simply because i was tired.
+yesterday yours truely read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him my testament for thanking him.
+yesterday yours truely read my testament for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him my testament simply because i was tired.
+yesterday yours truely read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read the headmistress an email for thanking him.
+yesterday yours truely read an email for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress an email and had a parcel sent off.
+yesterday yours truely read an email and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress my postcard and had a parcel sent off.
+yesterday yours truely read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress my testament simply because i was tired.
+yesterday yours truely read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read my mother an email simply because i was tired.
+yesterday james read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother my postcard for thanking him.
+yesterday james read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read my mother my postcard simply because i was tired.
+yesterday james read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother my testament and had a parcel sent off.
+yesterday james read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him an email for thanking him.
+yesterday james read an email for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him an email simply because i was tired.
+yesterday james read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him my postcard for thanking him.
+yesterday james read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him my postcard and had a parcel sent off.
+yesterday james read my postcard and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him my testament for thanking him.
+yesterday james read my testament for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him my testament simply because i was tired.
+yesterday james read my testament simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him my testament and had a parcel sent off.
+yesterday james read my testament and had a parcel sent off.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress an email simply because i was tired.
+yesterday james read an email simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress my postcard for thanking him.
+yesterday james read my postcard for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress my postcard simply because i was tired.
+yesterday james read my postcard simply because i was tired.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress my testament for thanking him.
+yesterday james read my testament for thanking him.
+entailment
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress my testament and had a parcel sent off.
+yesterday james read my testament and had a parcel sent off.
+entailment
+
+### Hypothesis: 2
+# *then* *i* read *mr. carter* *my letter* *and rang up sir james*.
+# *then* *i* read *mr. carter* *and rang up sir james*.
+# contradiction
+# *then*: at home; next; yesterday; 
+# *i*: the secretary; yours truely; james; 
+# *mr. carter*: my mother; him; the headmistress; 
+# *my letter*: an email; my postcard; my testament; 
+# *and rang up sir james*: for thanking him; simply because i was tired; and had a parcel sent off; 
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read my mother an email for thanking him.
+at home the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother an email simply because i was tired.
+at home the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read my mother an email and had a parcel sent off.
+at home the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read my mother my postcard for thanking him.
+at home the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother my postcard simply because i was tired.
+at home the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read my mother my postcard and had a parcel sent off.
+at home the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read my mother my testament for thanking him.
+at home the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read my mother my testament simply because i was tired.
+at home the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read my mother my testament and had a parcel sent off.
+at home the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him an email for thanking him.
+at home the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him an email simply because i was tired.
+at home the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him an email and had a parcel sent off.
+at home the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him my postcard for thanking him.
+at home the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him my postcard simply because i was tired.
+at home the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him my postcard and had a parcel sent off.
+at home the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read him my testament for thanking him.
+at home the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read him my testament simply because i was tired.
+at home the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read him my testament and had a parcel sent off.
+at home the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress an email for thanking him.
+at home the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress an email simply because i was tired.
+at home the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read the headmistress an email and had a parcel sent off.
+at home the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress my postcard for thanking him.
+at home the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress my postcard simply because i was tired.
+at home the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read the headmistress my postcard and had a parcel sent off.
+at home the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home the secretary read the headmistress my testament for thanking him.
+at home the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home the secretary read the headmistress my testament simply because i was tired.
+at home the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home the secretary read the headmistress my testament and had a parcel sent off.
+at home the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother an email for thanking him.
+at home yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read my mother an email simply because i was tired.
+at home yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read my mother an email and had a parcel sent off.
+at home yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother my postcard for thanking him.
+at home yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read my mother my postcard simply because i was tired.
+at home yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read my mother my postcard and had a parcel sent off.
+at home yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read my mother my testament for thanking him.
+at home yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read my mother my testament simply because i was tired.
+at home yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read my mother my testament and had a parcel sent off.
+at home yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him an email for thanking him.
+at home yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him an email simply because i was tired.
+at home yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him an email and had a parcel sent off.
+at home yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my postcard for thanking him.
+at home yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him my postcard simply because i was tired.
+at home yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him my postcard and had a parcel sent off.
+at home yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read him my testament for thanking him.
+at home yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read him my testament simply because i was tired.
+at home yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read him my testament and had a parcel sent off.
+at home yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read the headmistress an email for thanking him.
+at home yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read the headmistress an email simply because i was tired.
+at home yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress an email and had a parcel sent off.
+at home yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read the headmistress my postcard for thanking him.
+at home yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read the headmistress my postcard simply because i was tired.
+at home yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress my postcard and had a parcel sent off.
+at home yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home yours truely read the headmistress my testament for thanking him.
+at home yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home yours truely read the headmistress my testament simply because i was tired.
+at home yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home yours truely read the headmistress my testament and had a parcel sent off.
+at home yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother an email for thanking him.
+at home james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother an email simply because i was tired.
+at home james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother an email and had a parcel sent off.
+at home james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother my postcard for thanking him.
+at home james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother my postcard simply because i was tired.
+at home james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother my postcard and had a parcel sent off.
+at home james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read my mother my testament for thanking him.
+at home james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read my mother my testament simply because i was tired.
+at home james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read my mother my testament and had a parcel sent off.
+at home james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him an email for thanking him.
+at home james read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him an email simply because i was tired.
+at home james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him an email and had a parcel sent off.
+at home james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him my postcard for thanking him.
+at home james read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him my postcard simply because i was tired.
+at home james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him my postcard and had a parcel sent off.
+at home james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read him my testament for thanking him.
+at home james read him for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read him my testament simply because i was tired.
+at home james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read him my testament and had a parcel sent off.
+at home james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+at home james read the headmistress an email for thanking him.
+at home james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read the headmistress an email simply because i was tired.
+at home james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read the headmistress an email and had a parcel sent off.
+at home james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+at home james read the headmistress my postcard for thanking him.
+at home james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read the headmistress my postcard simply because i was tired.
+at home james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read the headmistress my postcard and had a parcel sent off.
+at home james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+at home james read the headmistress my testament for thanking him.
+at home james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+at home james read the headmistress my testament simply because i was tired.
+at home james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = at home>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+at home james read the headmistress my testament and had a parcel sent off.
+at home james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read my mother an email for thanking him.
+next the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother an email simply because i was tired.
+next the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read my mother an email and had a parcel sent off.
+next the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read my mother my postcard for thanking him.
+next the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother my postcard simply because i was tired.
+next the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read my mother my postcard and had a parcel sent off.
+next the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read my mother my testament for thanking him.
+next the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read my mother my testament simply because i was tired.
+next the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read my mother my testament and had a parcel sent off.
+next the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him an email for thanking him.
+next the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him an email simply because i was tired.
+next the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him an email and had a parcel sent off.
+next the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my postcard for thanking him.
+next the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him my postcard simply because i was tired.
+next the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him my postcard and had a parcel sent off.
+next the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read him my testament for thanking him.
+next the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read him my testament simply because i was tired.
+next the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read him my testament and had a parcel sent off.
+next the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress an email for thanking him.
+next the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress an email simply because i was tired.
+next the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress an email and had a parcel sent off.
+next the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my postcard for thanking him.
+next the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress my postcard simply because i was tired.
+next the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress my postcard and had a parcel sent off.
+next the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next the secretary read the headmistress my testament for thanking him.
+next the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next the secretary read the headmistress my testament simply because i was tired.
+next the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next the secretary read the headmistress my testament and had a parcel sent off.
+next the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read my mother an email for thanking him.
+next yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother an email simply because i was tired.
+next yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother an email and had a parcel sent off.
+next yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read my mother my postcard for thanking him.
+next yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother my postcard simply because i was tired.
+next yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother my postcard and had a parcel sent off.
+next yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read my mother my testament for thanking him.
+next yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read my mother my testament simply because i was tired.
+next yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read my mother my testament and had a parcel sent off.
+next yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read him an email for thanking him.
+next yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read him an email simply because i was tired.
+next yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him an email and had a parcel sent off.
+next yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read him my postcard for thanking him.
+next yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read him my postcard simply because i was tired.
+next yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him my postcard and had a parcel sent off.
+next yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read him my testament for thanking him.
+next yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read him my testament simply because i was tired.
+next yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read him my testament and had a parcel sent off.
+next yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read the headmistress an email for thanking him.
+next yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress an email simply because i was tired.
+next yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress an email and had a parcel sent off.
+next yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read the headmistress my postcard for thanking him.
+next yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress my postcard simply because i was tired.
+next yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress my postcard and had a parcel sent off.
+next yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next yours truely read the headmistress my testament for thanking him.
+next yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next yours truely read the headmistress my testament simply because i was tired.
+next yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next yours truely read the headmistress my testament and had a parcel sent off.
+next yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next james read my mother an email for thanking him.
+next james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother an email simply because i was tired.
+next james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read my mother an email and had a parcel sent off.
+next james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next james read my mother my postcard for thanking him.
+next james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother my postcard simply because i was tired.
+next james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read my mother my postcard and had a parcel sent off.
+next james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next james read my mother my testament for thanking him.
+next james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read my mother my testament simply because i was tired.
+next james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read my mother my testament and had a parcel sent off.
+next james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next james read him an email for thanking him.
+next james read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him an email simply because i was tired.
+next james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him an email and had a parcel sent off.
+next james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next james read him my postcard for thanking him.
+next james read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him my postcard simply because i was tired.
+next james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him my postcard and had a parcel sent off.
+next james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next james read him my testament for thanking him.
+next james read him for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read him my testament simply because i was tired.
+next james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read him my testament and had a parcel sent off.
+next james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+next james read the headmistress an email for thanking him.
+next james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read the headmistress an email simply because i was tired.
+next james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read the headmistress an email and had a parcel sent off.
+next james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+next james read the headmistress my postcard for thanking him.
+next james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read the headmistress my postcard simply because i was tired.
+next james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read the headmistress my postcard and had a parcel sent off.
+next james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+next james read the headmistress my testament for thanking him.
+next james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+next james read the headmistress my testament simply because i was tired.
+next james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = next>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+next james read the headmistress my testament and had a parcel sent off.
+next james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother an email for thanking him.
+yesterday the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read my mother an email simply because i was tired.
+yesterday the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read my mother an email and had a parcel sent off.
+yesterday the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my postcard for thanking him.
+yesterday the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read my mother my postcard simply because i was tired.
+yesterday the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read my mother my postcard and had a parcel sent off.
+yesterday the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read my mother my testament for thanking him.
+yesterday the secretary read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read my mother my testament simply because i was tired.
+yesterday the secretary read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read my mother my testament and had a parcel sent off.
+yesterday the secretary read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him an email for thanking him.
+yesterday the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him an email simply because i was tired.
+yesterday the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him an email and had a parcel sent off.
+yesterday the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my postcard for thanking him.
+yesterday the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him my postcard simply because i was tired.
+yesterday the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him my postcard and had a parcel sent off.
+yesterday the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read him my testament for thanking him.
+yesterday the secretary read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read him my testament simply because i was tired.
+yesterday the secretary read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read him my testament and had a parcel sent off.
+yesterday the secretary read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read the headmistress an email for thanking him.
+yesterday the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress an email simply because i was tired.
+yesterday the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read the headmistress an email and had a parcel sent off.
+yesterday the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read the headmistress my postcard for thanking him.
+yesterday the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress my postcard simply because i was tired.
+yesterday the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read the headmistress my postcard and had a parcel sent off.
+yesterday the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday the secretary read the headmistress my testament for thanking him.
+yesterday the secretary read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday the secretary read the headmistress my testament simply because i was tired.
+yesterday the secretary read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = the secretary>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday the secretary read the headmistress my testament and had a parcel sent off.
+yesterday the secretary read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother an email for thanking him.
+yesterday yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother an email simply because i was tired.
+yesterday yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read my mother an email and had a parcel sent off.
+yesterday yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother my postcard for thanking him.
+yesterday yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother my postcard simply because i was tired.
+yesterday yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read my mother my postcard and had a parcel sent off.
+yesterday yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read my mother my testament for thanking him.
+yesterday yours truely read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read my mother my testament simply because i was tired.
+yesterday yours truely read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read my mother my testament and had a parcel sent off.
+yesterday yours truely read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him an email for thanking him.
+yesterday yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him an email simply because i was tired.
+yesterday yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him an email and had a parcel sent off.
+yesterday yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him my postcard for thanking him.
+yesterday yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him my postcard simply because i was tired.
+yesterday yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him my postcard and had a parcel sent off.
+yesterday yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read him my testament for thanking him.
+yesterday yours truely read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read him my testament simply because i was tired.
+yesterday yours truely read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read him my testament and had a parcel sent off.
+yesterday yours truely read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read the headmistress an email for thanking him.
+yesterday yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress an email simply because i was tired.
+yesterday yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress an email and had a parcel sent off.
+yesterday yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read the headmistress my postcard for thanking him.
+yesterday yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress my postcard simply because i was tired.
+yesterday yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress my postcard and had a parcel sent off.
+yesterday yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday yours truely read the headmistress my testament for thanking him.
+yesterday yours truely read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday yours truely read the headmistress my testament simply because i was tired.
+yesterday yours truely read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = yours truely>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday yours truely read the headmistress my testament and had a parcel sent off.
+yesterday yours truely read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother an email for thanking him.
+yesterday james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read my mother an email simply because i was tired.
+yesterday james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother an email and had a parcel sent off.
+yesterday james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother my postcard for thanking him.
+yesterday james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read my mother my postcard simply because i was tired.
+yesterday james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother my postcard and had a parcel sent off.
+yesterday james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read my mother my testament for thanking him.
+yesterday james read my mother for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read my mother my testament simply because i was tired.
+yesterday james read my mother simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = my mother>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read my mother my testament and had a parcel sent off.
+yesterday james read my mother and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him an email for thanking him.
+yesterday james read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him an email simply because i was tired.
+yesterday james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him an email and had a parcel sent off.
+yesterday james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him my postcard for thanking him.
+yesterday james read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him my postcard simply because i was tired.
+yesterday james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him my postcard and had a parcel sent off.
+yesterday james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read him my testament for thanking him.
+yesterday james read him for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read him my testament simply because i was tired.
+yesterday james read him simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = him>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read him my testament and had a parcel sent off.
+yesterday james read him and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress an email for thanking him.
+yesterday james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress an email simply because i was tired.
+yesterday james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = an email>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress an email and had a parcel sent off.
+yesterday james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress my postcard for thanking him.
+yesterday james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress my postcard simply because i was tired.
+yesterday james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my postcard>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress my postcard and had a parcel sent off.
+yesterday james read the headmistress and had a parcel sent off.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = for thanking him>> 
+yesterday james read the headmistress my testament for thanking him.
+yesterday james read the headmistress for thanking him.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = simply because i was tired>> 
+yesterday james read the headmistress my testament simply because i was tired.
+yesterday james read the headmistress simply because i was tired.
+contradiction
+
+# args:  <<*then* = yesterday>>  <<*i* = james>>  <<*mr. carter* = the headmistress>>  <<*my letter* = my testament>>  <<*and rang up sir james* = and had a parcel sent off>> 
+yesterday james read the headmistress my testament and had a parcel sent off.
+yesterday james read the headmistress and had a parcel sent off.
+contradiction
+

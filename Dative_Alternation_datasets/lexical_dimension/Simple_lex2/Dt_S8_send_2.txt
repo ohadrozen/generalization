@@ -1,0 +1,837 @@
+### Hypothesis: 0
+# *netscape* *also* sent *him* *an explanation of why predation would work in this particular market*.
+# *netscape* *also* sent *an explanation of why predation would work in this particular market* to *him* .
+# entailment
+# *netscape*: the hunter; his broker; the biologist; 
+# *also*: repeatedly; reluctantly; rarely; 
+# *him*: everyone; the customers; the hospital; 
+# *an explanation of why predation would work in this particular market*: all the instructions he needed to build his weapon of terror; advice on the best way to restore function in the software; a notice from their corporate counsel threatening legal action for his publication; 
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent everyone advice on the best way to restore function in the software.
+the hunter repeatedly sent advice on the best way to restore function in the software to everyone .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter repeatedly sent a notice from their corporate counsel threatening legal action for his publication to the customers .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter repeatedly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the hunter repeatedly sent a notice from their corporate counsel threatening legal action for his publication to the hospital .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent everyone all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent all the instructions he needed to build his weapon of terror to everyone .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent the hospital advice on the best way to restore function in the software.
+the hunter reluctantly sent advice on the best way to restore function in the software to the hospital .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent everyone all the instructions he needed to build his weapon of terror.
+the hunter rarely sent all the instructions he needed to build his weapon of terror to everyone .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent everyone advice on the best way to restore function in the software.
+the hunter rarely sent advice on the best way to restore function in the software to everyone .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent a notice from their corporate counsel threatening legal action for his publication to the customers .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter rarely sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent a notice from their corporate counsel threatening legal action for his publication to the hospital .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent a notice from their corporate counsel threatening legal action for his publication to the customers .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+his broker reluctantly sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker reluctantly sent the hospital advice on the best way to restore function in the software.
+his broker reluctantly sent advice on the best way to restore function in the software to the hospital .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent everyone advice on the best way to restore function in the software.
+his broker rarely sent advice on the best way to restore function in the software to everyone .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the customers all the instructions he needed to build his weapon of terror.
+his broker rarely sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the hospital all the instructions he needed to build his weapon of terror.
+his broker rarely sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist repeatedly sent everyone all the instructions he needed to build his weapon of terror.
+the biologist repeatedly sent all the instructions he needed to build his weapon of terror to everyone .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent everyone advice on the best way to restore function in the software.
+the biologist repeatedly sent advice on the best way to restore function in the software to everyone .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent a notice from their corporate counsel threatening legal action for his publication to everyone .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent the hospital advice on the best way to restore function in the software.
+the biologist repeatedly sent advice on the best way to restore function in the software to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent a notice from their corporate counsel threatening legal action for his publication to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent the customers advice on the best way to restore function in the software.
+the biologist reluctantly sent advice on the best way to restore function in the software to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent a notice from their corporate counsel threatening legal action for his publication to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent a notice from their corporate counsel threatening legal action for his publication to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent everyone advice on the best way to restore function in the software.
+the biologist rarely sent advice on the best way to restore function in the software to everyone .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent a notice from their corporate counsel threatening legal action for his publication to everyone .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent the customers all the instructions he needed to build his weapon of terror.
+the biologist rarely sent all the instructions he needed to build his weapon of terror to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent the customers advice on the best way to restore function in the software.
+the biologist rarely sent advice on the best way to restore function in the software to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent a notice from their corporate counsel threatening legal action for his publication to the customers .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist rarely sent all the instructions he needed to build his weapon of terror to the hospital .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent the hospital advice on the best way to restore function in the software.
+the biologist rarely sent advice on the best way to restore function in the software to the hospital .
+entailment
+
+### Hypothesis: 1
+# *netscape* *also* sent *him* *an explanation of why predation would work in this particular market*.
+# *netscape* *also* sent *an explanation of why predation would work in this particular market* .
+# entailment
+# *netscape*: the hunter; his broker; the biologist; 
+# *also*: repeatedly; reluctantly; rarely; 
+# *him*: everyone; the customers; the hospital; 
+# *an explanation of why predation would work in this particular market*: all the instructions he needed to build his weapon of terror; advice on the best way to restore function in the software; a notice from their corporate counsel threatening legal action for his publication; 
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent everyone all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent everyone advice on the best way to restore function in the software.
+the hunter repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent the hospital advice on the best way to restore function in the software.
+the hunter repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent everyone all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent everyone advice on the best way to restore function in the software.
+the hunter reluctantly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter reluctantly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the hunter reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent the hospital advice on the best way to restore function in the software.
+the hunter reluctantly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent everyone all the instructions he needed to build his weapon of terror.
+the hunter rarely sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent everyone advice on the best way to restore function in the software.
+the hunter rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent the customers all the instructions he needed to build his weapon of terror.
+the hunter rarely sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent the hospital advice on the best way to restore function in the software.
+the hunter rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent everyone advice on the best way to restore function in the software.
+his broker repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent the customers advice on the best way to restore function in the software.
+his broker repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent the hospital advice on the best way to restore function in the software.
+his broker repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent everyone advice on the best way to restore function in the software.
+his broker rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the customers all the instructions he needed to build his weapon of terror.
+his broker rarely sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent the customers advice on the best way to restore function in the software.
+his broker rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker rarely sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the hospital all the instructions he needed to build his weapon of terror.
+his broker rarely sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent the hospital advice on the best way to restore function in the software.
+his broker rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent everyone advice on the best way to restore function in the software.
+the biologist repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+the biologist repeatedly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent the customers advice on the best way to restore function in the software.
+the biologist repeatedly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent everyone advice on the best way to restore function in the software.
+the biologist reluctantly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent the customers advice on the best way to restore function in the software.
+the biologist reluctantly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent the hospital advice on the best way to restore function in the software.
+the biologist reluctantly sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent the customers all the instructions he needed to build his weapon of terror.
+the biologist rarely sent all the instructions he needed to build his weapon of terror .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent the hospital advice on the best way to restore function in the software.
+the biologist rarely sent advice on the best way to restore function in the software .
+entailment
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent a notice from their corporate counsel threatening legal action for his publication .
+entailment
+
+### Hypothesis: 2
+# *netscape* *also* sent *him* *an explanation of why predation would work in this particular market*.
+# *netscape* *also* sent *him* .
+# contradiction
+# *netscape*: the hunter; his broker; the biologist; 
+# *also*: repeatedly; reluctantly; rarely; 
+# *him*: everyone; the customers; the hospital; 
+# *an explanation of why predation would work in this particular market*: all the instructions he needed to build his weapon of terror; advice on the best way to restore function in the software; a notice from their corporate counsel threatening legal action for his publication; 
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent everyone all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent everyone advice on the best way to restore function in the software.
+the hunter repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the hunter repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent the customers advice on the best way to restore function in the software.
+the hunter repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter repeatedly sent the hospital advice on the best way to restore function in the software.
+the hunter repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter repeatedly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the hunter repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent everyone all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent everyone advice on the best way to restore function in the software.
+the hunter reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter reluctantly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the hunter reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent the customers advice on the best way to restore function in the software.
+the hunter reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter reluctantly sent the hospital advice on the best way to restore function in the software.
+the hunter reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter reluctantly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the hunter reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent everyone all the instructions he needed to build his weapon of terror.
+the hunter rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent everyone advice on the best way to restore function in the software.
+the hunter rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent the customers all the instructions he needed to build his weapon of terror.
+the hunter rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent the customers advice on the best way to restore function in the software.
+the hunter rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the hunter rarely sent the hospital all the instructions he needed to build his weapon of terror.
+the hunter rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the hunter rarely sent the hospital advice on the best way to restore function in the software.
+the hunter rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the hunter>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the hunter rarely sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the hunter rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent everyone all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent everyone advice on the best way to restore function in the software.
+his broker repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent the customers advice on the best way to restore function in the software.
+his broker repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+his broker repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker repeatedly sent the hospital advice on the best way to restore function in the software.
+his broker repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker repeatedly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+his broker repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker reluctantly sent everyone all the instructions he needed to build his weapon of terror.
+his broker reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker reluctantly sent everyone advice on the best way to restore function in the software.
+his broker reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker reluctantly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+his broker reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+his broker reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker reluctantly sent the customers advice on the best way to restore function in the software.
+his broker reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+his broker reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker reluctantly sent the hospital advice on the best way to restore function in the software.
+his broker reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker reluctantly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+his broker reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent everyone all the instructions he needed to build his weapon of terror.
+his broker rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent everyone advice on the best way to restore function in the software.
+his broker rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker rarely sent everyone a notice from their corporate counsel threatening legal action for his publication.
+his broker rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the customers all the instructions he needed to build his weapon of terror.
+his broker rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent the customers advice on the best way to restore function in the software.
+his broker rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+his broker rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+his broker rarely sent the hospital all the instructions he needed to build his weapon of terror.
+his broker rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+his broker rarely sent the hospital advice on the best way to restore function in the software.
+his broker rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = his broker>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+his broker rarely sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+his broker rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist repeatedly sent everyone all the instructions he needed to build his weapon of terror.
+the biologist repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent everyone advice on the best way to restore function in the software.
+the biologist repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist repeatedly sent the customers all the instructions he needed to build his weapon of terror.
+the biologist repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent the customers advice on the best way to restore function in the software.
+the biologist repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist repeatedly sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist repeatedly sent the hospital advice on the best way to restore function in the software.
+the biologist repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = repeatedly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist repeatedly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist repeatedly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent everyone all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent everyone advice on the best way to restore function in the software.
+the biologist reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the customers all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent the customers advice on the best way to restore function in the software.
+the biologist reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist reluctantly sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist reluctantly sent the hospital advice on the best way to restore function in the software.
+the biologist reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = reluctantly>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist reluctantly sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist reluctantly sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent everyone all the instructions he needed to build his weapon of terror.
+the biologist rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent everyone advice on the best way to restore function in the software.
+the biologist rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = everyone>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent everyone a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent everyone .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent the customers all the instructions he needed to build his weapon of terror.
+the biologist rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent the customers advice on the best way to restore function in the software.
+the biologist rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the customers>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent the customers a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent the customers .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = all the instructions he needed to build his weapon of terror>> 
+the biologist rarely sent the hospital all the instructions he needed to build his weapon of terror.
+the biologist rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = advice on the best way to restore function in the software>> 
+the biologist rarely sent the hospital advice on the best way to restore function in the software.
+the biologist rarely sent the hospital .
+contradiction
+
+# args:  <<*netscape* = the biologist>>  <<*also* = rarely>>  <<*him* = the hospital>>  <<*an explanation of why predation would work in this particular market* = a notice from their corporate counsel threatening legal action for his publication>> 
+the biologist rarely sent the hospital a notice from their corporate counsel threatening legal action for his publication.
+the biologist rarely sent the hospital .
+contradiction
+

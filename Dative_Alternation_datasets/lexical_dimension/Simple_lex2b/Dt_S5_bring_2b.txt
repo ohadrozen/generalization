@@ -1,0 +1,2462 @@
+#****** Set Name: T2_bring_2b; Lexical: MNLI; Syntax: MNLI; Other:  *****
+########### Template: 0; Tense: UNK; Syntax: UNK; ##############
+### Hypothesis: 0
+# '*we* can mail *you* *fresh provisions* *for the return journey*,' *said severn*.
+# '*we* can mail *fresh provisions* to *you* *for the return journey*,' *said severn*.
+# entailment
+# *we*: local natives; the instructor; the dogs; 
+# *you*: fishermen; the company; the children; 
+# *fresh provisions*: a safe boat; flowers; climbing gear; 
+# *for the return journey*: in refrigerated trucks; whenever you call; after the battle is over; 
+# *said severn*: scribbled james; they exclaimed; the crumpled note said; 
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'local natives can mail a safe boat to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail a safe boat to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat whenever you call,' they exclaimed.
+'local natives can mail a safe boat to fishermen whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'local natives can mail a safe boat to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'local natives can mail flowers to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail flowers to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail flowers to fishermen in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers after the battle is over,' scribbled james.
+'local natives can mail flowers to fishermen after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers after the battle is over,' they exclaimed.
+'local natives can mail flowers to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail climbing gear to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen climbing gear whenever you call,' scribbled james.
+'local natives can mail climbing gear to fishermen whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear whenever you call,' they exclaimed.
+'local natives can mail climbing gear to fishermen whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen climbing gear whenever you call,' the crumpled note said.
+'local natives can mail climbing gear to fishermen whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen climbing gear after the battle is over,' scribbled james.
+'local natives can mail climbing gear to fishermen after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'local natives can mail climbing gear to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail a safe boat to the company in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company a safe boat whenever you call,' scribbled james.
+'local natives can mail a safe boat to the company whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat whenever you call,' they exclaimed.
+'local natives can mail a safe boat to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat after the battle is over,' they exclaimed.
+'local natives can mail a safe boat to the company after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat after the battle is over,' the crumpled note said.
+'local natives can mail a safe boat to the company after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail flowers to the company in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail flowers to the company in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers whenever you call,' scribbled james.
+'local natives can mail flowers to the company whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers whenever you call,' they exclaimed.
+'local natives can mail flowers to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers after the battle is over,' the crumpled note said.
+'local natives can mail flowers to the company after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'local natives can mail climbing gear to the company in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company climbing gear after the battle is over,' scribbled james.
+'local natives can mail climbing gear to the company after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear after the battle is over,' the crumpled note said.
+'local natives can mail climbing gear to the company after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail a safe boat to the children in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat whenever you call,' they exclaimed.
+'local natives can mail a safe boat to the children whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers whenever you call,' the crumpled note said.
+'local natives can mail flowers to the children whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers after the battle is over,' scribbled james.
+'local natives can mail flowers to the children after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'local natives can mail climbing gear to the children in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail climbing gear to the children in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear whenever you call,' scribbled james.
+'local natives can mail climbing gear to the children whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear whenever you call,' they exclaimed.
+'local natives can mail climbing gear to the children whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail a safe boat to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat whenever you call,' scribbled james.
+'the instructor can mail a safe boat to fishermen whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat after the battle is over,' scribbled james.
+'the instructor can mail a safe boat to fishermen after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'the instructor can mail a safe boat to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail flowers to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers after the battle is over,' they exclaimed.
+'the instructor can mail flowers to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail climbing gear to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail climbing gear to fishermen in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail climbing gear to fishermen after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail a safe boat to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail a safe boat to the company in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail a safe boat to the company whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat after the battle is over,' scribbled james.
+'the instructor can mail a safe boat to the company after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail flowers to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail flowers to the company in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail flowers to the company in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers whenever you call,' they exclaimed.
+'the instructor can mail flowers to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers whenever you call,' the crumpled note said.
+'the instructor can mail flowers to the company whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers after the battle is over,' scribbled james.
+'the instructor can mail flowers to the company after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers after the battle is over,' the crumpled note said.
+'the instructor can mail flowers to the company after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail climbing gear to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company climbing gear whenever you call,' they exclaimed.
+'the instructor can mail climbing gear to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company climbing gear after the battle is over,' scribbled james.
+'the instructor can mail climbing gear to the company after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail climbing gear to the company after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail climbing gear to the company after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail a safe boat to the children in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail a safe boat to the children in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat whenever you call,' scribbled james.
+'the instructor can mail a safe boat to the children whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat whenever you call,' they exclaimed.
+'the instructor can mail a safe boat to the children whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail a safe boat to the children whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat after the battle is over,' the crumpled note said.
+'the instructor can mail a safe boat to the children after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers whenever you call,' scribbled james.
+'the instructor can mail flowers to the children whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children flowers whenever you call,' they exclaimed.
+'the instructor can mail flowers to the children whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers whenever you call,' the crumpled note said.
+'the instructor can mail flowers to the children whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers after the battle is over,' scribbled james.
+'the instructor can mail flowers to the children after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers after the battle is over,' the crumpled note said.
+'the instructor can mail flowers to the children after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear whenever you call,' scribbled james.
+'the instructor can mail climbing gear to the children whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail climbing gear to the children whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear after the battle is over,' scribbled james.
+'the instructor can mail climbing gear to the children after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail climbing gear to the children after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'the dogs can mail a safe boat to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail a safe boat to fishermen in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat whenever you call,' they exclaimed.
+'the dogs can mail a safe boat to fishermen whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail a safe boat to fishermen whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail a safe boat to fishermen after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail flowers to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail flowers to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail flowers to fishermen in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers whenever you call,' scribbled james.
+'the dogs can mail flowers to fishermen whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers whenever you call,' the crumpled note said.
+'the dogs can mail flowers to fishermen whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers after the battle is over,' scribbled james.
+'the dogs can mail flowers to fishermen after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers after the battle is over,' the crumpled note said.
+'the dogs can mail flowers to fishermen after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail climbing gear to fishermen in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail climbing gear to fishermen in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail climbing gear to fishermen in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear after the battle is over,' scribbled james.
+'the dogs can mail climbing gear to fishermen after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail a safe boat to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company a safe boat whenever you call,' scribbled james.
+'the dogs can mail a safe boat to the company whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail a safe boat to the company after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail flowers to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail flowers to the company in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail flowers to the company in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers whenever you call,' they exclaimed.
+'the dogs can mail flowers to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers after the battle is over,' scribbled james.
+'the dogs can mail flowers to the company after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers after the battle is over,' they exclaimed.
+'the dogs can mail flowers to the company after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail climbing gear to the company in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail climbing gear to the company in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear whenever you call,' they exclaimed.
+'the dogs can mail climbing gear to the company whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail climbing gear to the company after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail a safe boat to the children in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat after the battle is over,' scribbled james.
+'the dogs can mail a safe boat to the children after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail a safe boat to the children after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail a safe boat to the children after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail flowers to the children in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail flowers to the children in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail flowers to the children in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers whenever you call,' scribbled james.
+'the dogs can mail flowers to the children whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers whenever you call,' they exclaimed.
+'the dogs can mail flowers to the children whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers after the battle is over,' scribbled james.
+'the dogs can mail flowers to the children after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers after the battle is over,' they exclaimed.
+'the dogs can mail flowers to the children after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail climbing gear to the children in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail climbing gear to the children in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear whenever you call,' scribbled james.
+'the dogs can mail climbing gear to the children whenever you call,' scribbled james.
+entailment
+
+### Hypothesis: 1
+# '*we* can mail *you* *fresh provisions* *for the return journey*,' *said severn*.
+# '*we* can mail *fresh provisions* *for the return journey*,' *said severn*.
+# entailment
+# *we*: local natives; the instructor; the dogs; 
+# *you*: fishermen; the company; the children; 
+# *fresh provisions*: a safe boat; flowers; climbing gear; 
+# *for the return journey*: in refrigerated trucks; whenever you call; after the battle is over; 
+# *said severn*: scribbled james; they exclaimed; the crumpled note said; 
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'local natives can mail a safe boat in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'local natives can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers whenever you call,' they exclaimed.
+'local natives can mail flowers whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers whenever you call,' the crumpled note said.
+'local natives can mail flowers whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers after the battle is over,' they exclaimed.
+'local natives can mail flowers after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'local natives can mail climbing gear after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat whenever you call,' they exclaimed.
+'local natives can mail a safe boat whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat whenever you call,' the crumpled note said.
+'local natives can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company a safe boat after the battle is over,' scribbled james.
+'local natives can mail a safe boat after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers in refrigerated trucks,' scribbled james.
+'local natives can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail flowers in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers whenever you call,' scribbled james.
+'local natives can mail flowers whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers whenever you call,' the crumpled note said.
+'local natives can mail flowers whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers after the battle is over,' scribbled james.
+'local natives can mail flowers after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers after the battle is over,' they exclaimed.
+'local natives can mail flowers after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers after the battle is over,' the crumpled note said.
+'local natives can mail flowers after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company climbing gear whenever you call,' scribbled james.
+'local natives can mail climbing gear whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company climbing gear whenever you call,' they exclaimed.
+'local natives can mail climbing gear whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear whenever you call,' the crumpled note said.
+'local natives can mail climbing gear whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear after the battle is over,' the crumpled note said.
+'local natives can mail climbing gear after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children a safe boat whenever you call,' scribbled james.
+'local natives can mail a safe boat whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children a safe boat whenever you call,' the crumpled note said.
+'local natives can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children a safe boat after the battle is over,' scribbled james.
+'local natives can mail a safe boat after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat after the battle is over,' they exclaimed.
+'local natives can mail a safe boat after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers in refrigerated trucks,' scribbled james.
+'local natives can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers whenever you call,' scribbled james.
+'local natives can mail flowers whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers whenever you call,' the crumpled note said.
+'local natives can mail flowers whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers after the battle is over,' scribbled james.
+'local natives can mail flowers after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children flowers after the battle is over,' they exclaimed.
+'local natives can mail flowers after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers after the battle is over,' the crumpled note said.
+'local natives can mail flowers after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'local natives can mail climbing gear in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail climbing gear in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'local natives can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear whenever you call,' they exclaimed.
+'local natives can mail climbing gear whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children climbing gear whenever you call,' the crumpled note said.
+'local natives can mail climbing gear whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat whenever you call,' scribbled james.
+'the instructor can mail a safe boat whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat whenever you call,' they exclaimed.
+'the instructor can mail a safe boat whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail flowers in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen flowers whenever you call,' scribbled james.
+'the instructor can mail flowers whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers whenever you call,' they exclaimed.
+'the instructor can mail flowers whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail climbing gear in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail climbing gear whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' scribbled james.
+'the instructor can mail climbing gear after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail climbing gear after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail climbing gear after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail a safe boat in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'the instructor can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail flowers in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers after the battle is over,' scribbled james.
+'the instructor can mail flowers after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers after the battle is over,' the crumpled note said.
+'the instructor can mail flowers after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail a safe boat in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'the instructor can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat whenever you call,' scribbled james.
+'the instructor can mail a safe boat whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat whenever you call,' they exclaimed.
+'the instructor can mail a safe boat whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat after the battle is over,' they exclaimed.
+'the instructor can mail a safe boat after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat after the battle is over,' the crumpled note said.
+'the instructor can mail a safe boat after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children flowers after the battle is over,' they exclaimed.
+'the instructor can mail flowers after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail climbing gear whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear after the battle is over,' scribbled james.
+'the instructor can mail climbing gear after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail climbing gear after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail climbing gear after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail a safe boat in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' scribbled james.
+'the dogs can mail a safe boat after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail a safe boat after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail a safe boat after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail flowers in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers whenever you call,' scribbled james.
+'the dogs can mail flowers whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers whenever you call,' they exclaimed.
+'the dogs can mail flowers whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers whenever you call,' the crumpled note said.
+'the dogs can mail flowers whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail climbing gear in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail climbing gear in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear whenever you call,' scribbled james.
+'the dogs can mail climbing gear whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'the dogs can mail climbing gear after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'the dogs can mail a safe boat in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail a safe boat whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail a safe boat after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail climbing gear in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail climbing gear in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear whenever you call,' scribbled james.
+'the dogs can mail climbing gear whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear whenever you call,' they exclaimed.
+'the dogs can mail climbing gear whenever you call,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear after the battle is over,' scribbled james.
+'the dogs can mail climbing gear after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail climbing gear after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company climbing gear after the battle is over,' the crumpled note said.
+'the dogs can mail climbing gear after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail a safe boat in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail a safe boat in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat after the battle is over,' scribbled james.
+'the dogs can mail a safe boat after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail a safe boat after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail flowers in refrigerated trucks,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail flowers in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail flowers in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers after the battle is over,' scribbled james.
+'the dogs can mail flowers after the battle is over,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers after the battle is over,' they exclaimed.
+'the dogs can mail flowers after the battle is over,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers after the battle is over,' the crumpled note said.
+'the dogs can mail flowers after the battle is over,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail climbing gear in refrigerated trucks,' they exclaimed.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail climbing gear in refrigerated trucks,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear whenever you call,' scribbled james.
+'the dogs can mail climbing gear whenever you call,' scribbled james.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear whenever you call,' the crumpled note said.
+'the dogs can mail climbing gear whenever you call,' the crumpled note said.
+entailment
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail climbing gear after the battle is over,' they exclaimed.
+entailment
+
+### Hypothesis: 2
+# '*we* can mail *you* *fresh provisions* *for the return journey*,' *said severn*.
+# '*we* can mail *you* *for the return journey*,' *said severn*.
+# contradiction
+# *we*: local natives; the instructor; the dogs; 
+# *you*: fishermen; the company; the children; 
+# *fresh provisions*: a safe boat; flowers; climbing gear; 
+# *for the return journey*: in refrigerated trucks; whenever you call; after the battle is over; 
+# *said severn*: scribbled james; they exclaimed; the crumpled note said; 
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'local natives can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen a safe boat whenever you call,' scribbled james.
+'local natives can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat whenever you call,' they exclaimed.
+'local natives can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen a safe boat whenever you call,' the crumpled note said.
+'local natives can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen a safe boat after the battle is over,' scribbled james.
+'local natives can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'local natives can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen a safe boat after the battle is over,' the crumpled note said.
+'local natives can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'local natives can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers whenever you call,' scribbled james.
+'local natives can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers whenever you call,' they exclaimed.
+'local natives can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers whenever you call,' the crumpled note said.
+'local natives can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen flowers after the battle is over,' scribbled james.
+'local natives can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen flowers after the battle is over,' they exclaimed.
+'local natives can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen flowers after the battle is over,' the crumpled note said.
+'local natives can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'local natives can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'local natives can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen climbing gear whenever you call,' scribbled james.
+'local natives can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear whenever you call,' they exclaimed.
+'local natives can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen climbing gear whenever you call,' the crumpled note said.
+'local natives can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail fishermen climbing gear after the battle is over,' scribbled james.
+'local natives can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'local natives can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'local natives can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'local natives can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company a safe boat whenever you call,' scribbled james.
+'local natives can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat whenever you call,' they exclaimed.
+'local natives can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat whenever you call,' the crumpled note said.
+'local natives can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company a safe boat after the battle is over,' scribbled james.
+'local natives can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company a safe boat after the battle is over,' they exclaimed.
+'local natives can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company a safe boat after the battle is over,' the crumpled note said.
+'local natives can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers in refrigerated trucks,' scribbled james.
+'local natives can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers whenever you call,' scribbled james.
+'local natives can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers whenever you call,' they exclaimed.
+'local natives can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers whenever you call,' the crumpled note said.
+'local natives can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company flowers after the battle is over,' scribbled james.
+'local natives can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company flowers after the battle is over,' they exclaimed.
+'local natives can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company flowers after the battle is over,' the crumpled note said.
+'local natives can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'local natives can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'local natives can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company climbing gear whenever you call,' scribbled james.
+'local natives can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company climbing gear whenever you call,' they exclaimed.
+'local natives can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear whenever you call,' the crumpled note said.
+'local natives can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the company climbing gear after the battle is over,' scribbled james.
+'local natives can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the company climbing gear after the battle is over,' they exclaimed.
+'local natives can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the company climbing gear after the battle is over,' the crumpled note said.
+'local natives can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'local natives can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'local natives can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'local natives can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children a safe boat whenever you call,' scribbled james.
+'local natives can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat whenever you call,' they exclaimed.
+'local natives can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children a safe boat whenever you call,' the crumpled note said.
+'local natives can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children a safe boat after the battle is over,' scribbled james.
+'local natives can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children a safe boat after the battle is over,' they exclaimed.
+'local natives can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children a safe boat after the battle is over,' the crumpled note said.
+'local natives can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers in refrigerated trucks,' scribbled james.
+'local natives can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children flowers in refrigerated trucks,' they exclaimed.
+'local natives can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'local natives can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers whenever you call,' scribbled james.
+'local natives can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children flowers whenever you call,' they exclaimed.
+'local natives can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers whenever you call,' the crumpled note said.
+'local natives can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children flowers after the battle is over,' scribbled james.
+'local natives can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children flowers after the battle is over,' they exclaimed.
+'local natives can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children flowers after the battle is over,' the crumpled note said.
+'local natives can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'local natives can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'local natives can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'local natives can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear whenever you call,' scribbled james.
+'local natives can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear whenever you call,' they exclaimed.
+'local natives can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children climbing gear whenever you call,' the crumpled note said.
+'local natives can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'local natives can mail the children climbing gear after the battle is over,' scribbled james.
+'local natives can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'local natives can mail the children climbing gear after the battle is over,' they exclaimed.
+'local natives can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = local natives>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'local natives can mail the children climbing gear after the battle is over,' the crumpled note said.
+'local natives can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'the instructor can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat whenever you call,' scribbled james.
+'the instructor can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat whenever you call,' they exclaimed.
+'the instructor can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen a safe boat after the battle is over,' scribbled james.
+'the instructor can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'the instructor can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen a safe boat after the battle is over,' the crumpled note said.
+'the instructor can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen flowers whenever you call,' scribbled james.
+'the instructor can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers whenever you call,' they exclaimed.
+'the instructor can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen flowers whenever you call,' the crumpled note said.
+'the instructor can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen flowers after the battle is over,' scribbled james.
+'the instructor can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen flowers after the battle is over,' they exclaimed.
+'the instructor can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen flowers after the battle is over,' the crumpled note said.
+'the instructor can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'the instructor can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear whenever you call,' scribbled james.
+'the instructor can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen climbing gear whenever you call,' they exclaimed.
+'the instructor can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' scribbled james.
+'the instructor can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat whenever you call,' scribbled james.
+'the instructor can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company a safe boat whenever you call,' they exclaimed.
+'the instructor can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company a safe boat after the battle is over,' scribbled james.
+'the instructor can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company a safe boat after the battle is over,' they exclaimed.
+'the instructor can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company a safe boat after the battle is over,' the crumpled note said.
+'the instructor can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers whenever you call,' scribbled james.
+'the instructor can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers whenever you call,' they exclaimed.
+'the instructor can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers whenever you call,' the crumpled note said.
+'the instructor can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company flowers after the battle is over,' scribbled james.
+'the instructor can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company flowers after the battle is over,' they exclaimed.
+'the instructor can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company flowers after the battle is over,' the crumpled note said.
+'the instructor can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company climbing gear in refrigerated trucks,' they exclaimed.
+'the instructor can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company climbing gear whenever you call,' scribbled james.
+'the instructor can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company climbing gear whenever you call,' they exclaimed.
+'the instructor can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the company climbing gear after the battle is over,' scribbled james.
+'the instructor can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the company climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the company climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the instructor can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'the instructor can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat whenever you call,' scribbled james.
+'the instructor can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat whenever you call,' they exclaimed.
+'the instructor can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat whenever you call,' the crumpled note said.
+'the instructor can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children a safe boat after the battle is over,' scribbled james.
+'the instructor can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children a safe boat after the battle is over,' they exclaimed.
+'the instructor can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children a safe boat after the battle is over,' the crumpled note said.
+'the instructor can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers in refrigerated trucks,' scribbled james.
+'the instructor can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children flowers in refrigerated trucks,' they exclaimed.
+'the instructor can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers whenever you call,' scribbled james.
+'the instructor can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children flowers whenever you call,' they exclaimed.
+'the instructor can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers whenever you call,' the crumpled note said.
+'the instructor can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children flowers after the battle is over,' scribbled james.
+'the instructor can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children flowers after the battle is over,' they exclaimed.
+'the instructor can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children flowers after the battle is over,' the crumpled note said.
+'the instructor can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'the instructor can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'the instructor can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'the instructor can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear whenever you call,' scribbled james.
+'the instructor can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children climbing gear whenever you call,' they exclaimed.
+'the instructor can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear whenever you call,' the crumpled note said.
+'the instructor can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the instructor can mail the children climbing gear after the battle is over,' scribbled james.
+'the instructor can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the instructor can mail the children climbing gear after the battle is over,' they exclaimed.
+'the instructor can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the instructor>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the instructor can mail the children climbing gear after the battle is over,' the crumpled note said.
+'the instructor can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' they exclaimed.
+'the dogs can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen a safe boat whenever you call,' scribbled james.
+'the dogs can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat whenever you call,' they exclaimed.
+'the dogs can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' scribbled james.
+'the dogs can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers whenever you call,' scribbled james.
+'the dogs can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers whenever you call,' they exclaimed.
+'the dogs can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers whenever you call,' the crumpled note said.
+'the dogs can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen flowers after the battle is over,' scribbled james.
+'the dogs can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen flowers after the battle is over,' they exclaimed.
+'the dogs can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen flowers after the battle is over,' the crumpled note said.
+'the dogs can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail fishermen in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail fishermen in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail fishermen in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear whenever you call,' scribbled james.
+'the dogs can mail fishermen whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen climbing gear whenever you call,' they exclaimed.
+'the dogs can mail fishermen whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen climbing gear whenever you call,' the crumpled note said.
+'the dogs can mail fishermen whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail fishermen climbing gear after the battle is over,' scribbled james.
+'the dogs can mail fishermen after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail fishermen climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail fishermen after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = fishermen>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail fishermen climbing gear after the battle is over,' the crumpled note said.
+'the dogs can mail fishermen after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' they exclaimed.
+'the dogs can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company a safe boat whenever you call,' scribbled james.
+'the dogs can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company a safe boat whenever you call,' they exclaimed.
+'the dogs can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company a safe boat after the battle is over,' scribbled james.
+'the dogs can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers whenever you call,' scribbled james.
+'the dogs can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers whenever you call,' they exclaimed.
+'the dogs can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company flowers whenever you call,' the crumpled note said.
+'the dogs can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company flowers after the battle is over,' scribbled james.
+'the dogs can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company flowers after the battle is over,' they exclaimed.
+'the dogs can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company flowers after the battle is over,' the crumpled note said.
+'the dogs can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail the company in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail the company in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the company in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear whenever you call,' scribbled james.
+'the dogs can mail the company whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear whenever you call,' they exclaimed.
+'the dogs can mail the company whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company climbing gear whenever you call,' the crumpled note said.
+'the dogs can mail the company whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the company climbing gear after the battle is over,' scribbled james.
+'the dogs can mail the company after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the company climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail the company after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the company>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the company climbing gear after the battle is over,' the crumpled note said.
+'the dogs can mail the company after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' scribbled james.
+'the dogs can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' they exclaimed.
+'the dogs can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children a safe boat in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat whenever you call,' scribbled james.
+'the dogs can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children a safe boat whenever you call,' they exclaimed.
+'the dogs can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children a safe boat whenever you call,' the crumpled note said.
+'the dogs can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children a safe boat after the battle is over,' scribbled james.
+'the dogs can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children a safe boat after the battle is over,' they exclaimed.
+'the dogs can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = a safe boat>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children a safe boat after the battle is over,' the crumpled note said.
+'the dogs can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers in refrigerated trucks,' scribbled james.
+'the dogs can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers in refrigerated trucks,' they exclaimed.
+'the dogs can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers whenever you call,' scribbled james.
+'the dogs can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers whenever you call,' they exclaimed.
+'the dogs can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers whenever you call,' the crumpled note said.
+'the dogs can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children flowers after the battle is over,' scribbled james.
+'the dogs can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children flowers after the battle is over,' they exclaimed.
+'the dogs can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = flowers>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children flowers after the battle is over,' the crumpled note said.
+'the dogs can mail the children after the battle is over,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' scribbled james.
+'the dogs can mail the children in refrigerated trucks,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' they exclaimed.
+'the dogs can mail the children in refrigerated trucks,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = in refrigerated trucks>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear in refrigerated trucks,' the crumpled note said.
+'the dogs can mail the children in refrigerated trucks,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear whenever you call,' scribbled james.
+'the dogs can mail the children whenever you call,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children climbing gear whenever you call,' they exclaimed.
+'the dogs can mail the children whenever you call,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = whenever you call>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear whenever you call,' the crumpled note said.
+'the dogs can mail the children whenever you call,' the crumpled note said.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = scribbled james>> 
+'the dogs can mail the children climbing gear after the battle is over,' scribbled james.
+'the dogs can mail the children after the battle is over,' scribbled james.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = they exclaimed>> 
+'the dogs can mail the children climbing gear after the battle is over,' they exclaimed.
+'the dogs can mail the children after the battle is over,' they exclaimed.
+contradiction
+
+# args:  <<*we* = the dogs>>  <<*you* = the children>>  <<*fresh provisions* = climbing gear>>  <<*for the return journey* = after the battle is over>>  <<*said severn* = the crumpled note said>> 
+'the dogs can mail the children climbing gear after the battle is over,' the crumpled note said.
+'the dogs can mail the children after the battle is over,' the crumpled note said.
+contradiction
+

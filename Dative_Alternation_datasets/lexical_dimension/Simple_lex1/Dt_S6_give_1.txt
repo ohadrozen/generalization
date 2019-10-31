@@ -1,0 +1,2572 @@
+### Hypothesis: 0
+# *you* *can* give *me* *milk and spinach*.
+# *you* *can* give *milk and spinach* to *me* .
+# entailment
+# *you*: you; the waiter; he; the chef; 
+# *can*: can; will; won't; should; 
+# *me*: me; your child; them; the dog; 
+# *milk and spinach*: milk and spinach; your car keys; a hug; a hug and a kiss; 
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you can give me milk and spinach.
+you can give milk and spinach to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+you can give me your car keys.
+you can give your car keys to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give me a hug and a kiss.
+you can give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you can give your child your car keys.
+you can give your car keys to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you can give them your car keys.
+you can give your car keys to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you can give them a hug.
+you can give a hug to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you can give the dog milk and spinach.
+you can give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you can give the dog your car keys.
+you can give your car keys to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give the dog a hug and a kiss.
+you can give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you will give me milk and spinach.
+you will give milk and spinach to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you will give me a hug.
+you will give a hug to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give me a hug and a kiss.
+you will give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you will give your child your car keys.
+you will give your car keys to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give your child a hug and a kiss.
+you will give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you will give them milk and spinach.
+you will give milk and spinach to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you will give them your car keys.
+you will give your car keys to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you will give them a hug.
+you will give a hug to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give them a hug and a kiss.
+you will give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you will give the dog milk and spinach.
+you will give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you will give the dog your car keys.
+you will give your car keys to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you won't give me milk and spinach.
+you won't give milk and spinach to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you won't give me a hug.
+you won't give a hug to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give me a hug and a kiss.
+you won't give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you won't give your child your car keys.
+you won't give your car keys to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you won't give them milk and spinach.
+you won't give milk and spinach to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give them a hug and a kiss.
+you won't give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you won't give the dog your car keys.
+you won't give your car keys to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you won't give the dog a hug.
+you won't give a hug to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give the dog a hug and a kiss.
+you won't give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you should give me milk and spinach.
+you should give milk and spinach to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give me a hug and a kiss.
+you should give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you should give your child your car keys.
+you should give your car keys to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you should give your child a hug.
+you should give a hug to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give your child a hug and a kiss.
+you should give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you should give them milk and spinach.
+you should give milk and spinach to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you should give them your car keys.
+you should give your car keys to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you should give them a hug.
+you should give a hug to them .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you should give the dog a hug.
+you should give a hug to the dog .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give the dog a hug and a kiss.
+you should give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give me milk and spinach.
+the waiter can give milk and spinach to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give your child milk and spinach.
+the waiter can give milk and spinach to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter can give the dog a hug.
+the waiter can give a hug to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give your child milk and spinach.
+the waiter will give milk and spinach to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter will give your child your car keys.
+the waiter will give your car keys to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter will give your child a hug.
+the waiter will give a hug to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter will give them a hug.
+the waiter will give a hug to them .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give the dog milk and spinach.
+the waiter will give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give me milk and spinach.
+the waiter won't give milk and spinach to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give me your car keys.
+the waiter won't give your car keys to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give me a hug and a kiss.
+the waiter won't give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give your child your car keys.
+the waiter won't give your car keys to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter won't give your child a hug.
+the waiter won't give a hug to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give your child a hug and a kiss.
+the waiter won't give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give them milk and spinach.
+the waiter won't give milk and spinach to them .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give them your car keys.
+the waiter won't give your car keys to them .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give them a hug and a kiss.
+the waiter won't give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give the dog milk and spinach.
+the waiter won't give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give me milk and spinach.
+the waiter should give milk and spinach to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give me a hug and a kiss.
+the waiter should give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter should give your child your car keys.
+the waiter should give your car keys to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter should give your child a hug.
+the waiter should give a hug to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give your child a hug and a kiss.
+the waiter should give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter should give the dog your car keys.
+the waiter should give your car keys to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter should give the dog a hug.
+the waiter should give a hug to the dog .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give the dog a hug and a kiss.
+the waiter should give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he can give me milk and spinach.
+he can give milk and spinach to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he can give me your car keys.
+he can give your car keys to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he can give me a hug.
+he can give a hug to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give me a hug and a kiss.
+he can give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he can give your child your car keys.
+he can give your car keys to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he can give your child a hug.
+he can give a hug to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give your child a hug and a kiss.
+he can give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he can give them your car keys.
+he can give your car keys to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give them a hug and a kiss.
+he can give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he can give the dog milk and spinach.
+he can give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give the dog a hug and a kiss.
+he can give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he will give me milk and spinach.
+he will give milk and spinach to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he will give me your car keys.
+he will give your car keys to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he will give me a hug.
+he will give a hug to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give me a hug and a kiss.
+he will give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he will give your child your car keys.
+he will give your car keys to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he will give your child a hug.
+he will give a hug to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he will give them your car keys.
+he will give your car keys to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give them a hug and a kiss.
+he will give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he will give the dog milk and spinach.
+he will give milk and spinach to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give the dog a hug and a kiss.
+he will give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he won't give me milk and spinach.
+he won't give milk and spinach to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give me a hug and a kiss.
+he won't give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he won't give your child milk and spinach.
+he won't give milk and spinach to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he won't give your child your car keys.
+he won't give your car keys to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he won't give your child a hug.
+he won't give a hug to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give your child a hug and a kiss.
+he won't give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he won't give them your car keys.
+he won't give your car keys to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give them a hug and a kiss.
+he won't give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he won't give the dog a hug.
+he won't give a hug to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he should give me milk and spinach.
+he should give milk and spinach to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he should give me a hug.
+he should give a hug to me .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he should give your child milk and spinach.
+he should give milk and spinach to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he should give your child your car keys.
+he should give your car keys to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give your child a hug and a kiss.
+he should give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he should give them your car keys.
+he should give your car keys to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he should give them a hug.
+he should give a hug to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give them a hug and a kiss.
+he should give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he should give the dog your car keys.
+he should give your car keys to the dog .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he should give the dog a hug.
+he should give a hug to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef can give me your car keys.
+the chef can give your car keys to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef can give your child your car keys.
+the chef can give your car keys to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef can give your child a hug.
+the chef can give a hug to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give your child a hug and a kiss.
+the chef can give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef can give them milk and spinach.
+the chef can give milk and spinach to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef can give the dog your car keys.
+the chef can give your car keys to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give the dog a hug and a kiss.
+the chef can give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give me milk and spinach.
+the chef will give milk and spinach to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef will give me your car keys.
+the chef will give your car keys to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef will give me a hug.
+the chef will give a hug to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef will give your child your car keys.
+the chef will give your car keys to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef will give your child a hug.
+the chef will give a hug to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give them milk and spinach.
+the chef will give milk and spinach to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef will give them a hug.
+the chef will give a hug to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef will give the dog your car keys.
+the chef will give your car keys to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef will give the dog a hug.
+the chef will give a hug to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef won't give me your car keys.
+the chef won't give your car keys to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef won't give me a hug.
+the chef won't give a hug to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give your child milk and spinach.
+the chef won't give milk and spinach to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef won't give your child a hug.
+the chef won't give a hug to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give your child a hug and a kiss.
+the chef won't give a hug and a kiss to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give them a hug and a kiss.
+the chef won't give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef won't give the dog a hug.
+the chef won't give a hug to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give the dog a hug and a kiss.
+the chef won't give a hug and a kiss to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef should give me your car keys.
+the chef should give your car keys to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give me a hug and a kiss.
+the chef should give a hug and a kiss to me .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef should give your child a hug.
+the chef should give a hug to your child .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef should give them your car keys.
+the chef should give your car keys to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef should give them a hug.
+the chef should give a hug to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give them a hug and a kiss.
+the chef should give a hug and a kiss to them .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef should give the dog your car keys.
+the chef should give your car keys to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef should give the dog a hug.
+the chef should give a hug to the dog .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give the dog a hug and a kiss.
+the chef should give a hug and a kiss to the dog .
+entailment
+
+### Hypothesis: 1
+# *you* *can* give *me* *milk and spinach*.
+# *you* *can* give *milk and spinach* .
+# entailment
+# *you*: you; the waiter; he; the chef; 
+# *can*: can; will; won't; should; 
+# *me*: me; your child; them; the dog; 
+# *milk and spinach*: milk and spinach; your car keys; a hug; a hug and a kiss; 
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you can give me milk and spinach.
+you can give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you can give me a hug.
+you can give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give me a hug and a kiss.
+you can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you can give your child milk and spinach.
+you can give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you can give your child a hug.
+you can give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you can give the dog your car keys.
+you can give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you can give the dog a hug.
+you can give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you will give me a hug.
+you will give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you will give your child milk and spinach.
+you will give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you will give your child your car keys.
+you will give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you will give your child a hug.
+you will give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give your child a hug and a kiss.
+you will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you will give them milk and spinach.
+you will give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you will give them your car keys.
+you will give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give them a hug and a kiss.
+you will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you will give the dog milk and spinach.
+you will give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you will give the dog a hug.
+you will give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give the dog a hug and a kiss.
+you will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give me a hug and a kiss.
+you won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you won't give your child milk and spinach.
+you won't give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give your child a hug and a kiss.
+you won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you won't give them milk and spinach.
+you won't give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give them a hug and a kiss.
+you won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you won't give the dog your car keys.
+you won't give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give the dog a hug and a kiss.
+you won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give me a hug and a kiss.
+you should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you should give your child your car keys.
+you should give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you should give your child a hug.
+you should give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you should give them your car keys.
+you should give your car keys .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you should give them a hug.
+you should give a hug .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give them a hug and a kiss.
+you should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you should give the dog milk and spinach.
+you should give milk and spinach .
+entailment
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you should give the dog a hug.
+you should give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give me milk and spinach.
+the waiter can give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter can give me your car keys.
+the waiter can give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give me a hug and a kiss.
+the waiter can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter can give your child a hug.
+the waiter can give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter can give them your car keys.
+the waiter can give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give them a hug and a kiss.
+the waiter can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give the dog milk and spinach.
+the waiter can give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter can give the dog a hug.
+the waiter can give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give me milk and spinach.
+the waiter will give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give your child milk and spinach.
+the waiter will give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter will give your child your car keys.
+the waiter will give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give them milk and spinach.
+the waiter will give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter will give them your car keys.
+the waiter will give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter will give them a hug.
+the waiter will give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter will give the dog a hug and a kiss.
+the waiter will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give me a hug and a kiss.
+the waiter won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter won't give your child a hug.
+the waiter won't give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter won't give them a hug.
+the waiter won't give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give them a hug and a kiss.
+the waiter won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give the dog your car keys.
+the waiter won't give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter won't give the dog a hug.
+the waiter won't give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give me milk and spinach.
+the waiter should give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give your child milk and spinach.
+the waiter should give milk and spinach .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter should give your child your car keys.
+the waiter should give your car keys .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter should give your child a hug.
+the waiter should give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give them a hug and a kiss.
+the waiter should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter should give the dog a hug.
+the waiter should give a hug .
+entailment
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give the dog a hug and a kiss.
+the waiter should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he can give me your car keys.
+he can give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give me a hug and a kiss.
+he can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he can give your child your car keys.
+he can give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he can give them milk and spinach.
+he can give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he can give them your car keys.
+he can give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he can give the dog milk and spinach.
+he can give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he can give the dog your car keys.
+he can give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he can give the dog a hug.
+he can give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give the dog a hug and a kiss.
+he can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he will give me your car keys.
+he will give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give me a hug and a kiss.
+he will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he will give your child milk and spinach.
+he will give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he will give your child a hug.
+he will give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give your child a hug and a kiss.
+he will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he will give them a hug.
+he will give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give them a hug and a kiss.
+he will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he will give the dog your car keys.
+he will give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give the dog a hug and a kiss.
+he will give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he won't give me milk and spinach.
+he won't give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he won't give your child a hug.
+he won't give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give your child a hug and a kiss.
+he won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give them a hug and a kiss.
+he won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he should give me milk and spinach.
+he should give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give me a hug and a kiss.
+he should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he should give your child your car keys.
+he should give your car keys .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he should give your child a hug.
+he should give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he should give them milk and spinach.
+he should give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give them a hug and a kiss.
+he should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he should give the dog milk and spinach.
+he should give milk and spinach .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he should give the dog a hug.
+he should give a hug .
+entailment
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give the dog a hug and a kiss.
+he should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef can give me a hug.
+the chef can give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give your child a hug and a kiss.
+the chef can give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef can give them a hug.
+the chef can give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give me milk and spinach.
+the chef will give milk and spinach .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef will give me a hug.
+the chef will give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef will give your child your car keys.
+the chef will give your car keys .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef will give your child a hug.
+the chef will give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give them milk and spinach.
+the chef will give milk and spinach .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef won't give me a hug.
+the chef won't give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give your child milk and spinach.
+the chef won't give milk and spinach .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef won't give your child a hug.
+the chef won't give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give them a hug and a kiss.
+the chef won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef won't give the dog your car keys.
+the chef won't give your car keys .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give the dog a hug and a kiss.
+the chef won't give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give me milk and spinach.
+the chef should give milk and spinach .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef should give me your car keys.
+the chef should give your car keys .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef should give me a hug.
+the chef should give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give your child milk and spinach.
+the chef should give milk and spinach .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef should give your child a hug.
+the chef should give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef should give them your car keys.
+the chef should give your car keys .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef should give them a hug.
+the chef should give a hug .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give them a hug and a kiss.
+the chef should give a hug and a kiss .
+entailment
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give the dog a hug and a kiss.
+the chef should give a hug and a kiss .
+entailment
+
+### Hypothesis: 2
+# *you* *can* give *me* *milk and spinach*.
+# *you* *can* give *me* .
+# contradiction
+# *you*: you; the waiter; he; the chef; 
+# *can*: can; will; won't; should; 
+# *me*: me; your child; them; the dog; 
+# *milk and spinach*: milk and spinach; your car keys; a hug; a hug and a kiss; 
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you can give me milk and spinach.
+you can give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+you can give me your car keys.
+you can give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you can give me a hug.
+you can give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give me a hug and a kiss.
+you can give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you can give your child milk and spinach.
+you can give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you can give your child your car keys.
+you can give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you can give your child a hug.
+you can give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give your child a hug and a kiss.
+you can give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you can give them milk and spinach.
+you can give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you can give them your car keys.
+you can give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you can give them a hug.
+you can give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give them a hug and a kiss.
+you can give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you can give the dog milk and spinach.
+you can give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you can give the dog your car keys.
+you can give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you can give the dog a hug.
+you can give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you can give the dog a hug and a kiss.
+you can give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you will give me milk and spinach.
+you will give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+you will give me your car keys.
+you will give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you will give me a hug.
+you will give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give me a hug and a kiss.
+you will give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you will give your child milk and spinach.
+you will give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you will give your child your car keys.
+you will give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you will give your child a hug.
+you will give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give your child a hug and a kiss.
+you will give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you will give them milk and spinach.
+you will give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you will give them your car keys.
+you will give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you will give them a hug.
+you will give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give them a hug and a kiss.
+you will give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you will give the dog milk and spinach.
+you will give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you will give the dog your car keys.
+you will give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you will give the dog a hug.
+you will give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you will give the dog a hug and a kiss.
+you will give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you won't give me milk and spinach.
+you won't give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+you won't give me your car keys.
+you won't give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you won't give me a hug.
+you won't give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give me a hug and a kiss.
+you won't give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you won't give your child milk and spinach.
+you won't give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you won't give your child your car keys.
+you won't give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you won't give your child a hug.
+you won't give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give your child a hug and a kiss.
+you won't give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you won't give them milk and spinach.
+you won't give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you won't give them your car keys.
+you won't give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you won't give them a hug.
+you won't give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give them a hug and a kiss.
+you won't give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you won't give the dog milk and spinach.
+you won't give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you won't give the dog your car keys.
+you won't give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you won't give the dog a hug.
+you won't give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you won't give the dog a hug and a kiss.
+you won't give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+you should give me milk and spinach.
+you should give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+you should give me your car keys.
+you should give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+you should give me a hug.
+you should give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give me a hug and a kiss.
+you should give me .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+you should give your child milk and spinach.
+you should give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+you should give your child your car keys.
+you should give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+you should give your child a hug.
+you should give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give your child a hug and a kiss.
+you should give your child .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+you should give them milk and spinach.
+you should give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+you should give them your car keys.
+you should give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+you should give them a hug.
+you should give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give them a hug and a kiss.
+you should give them .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+you should give the dog milk and spinach.
+you should give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+you should give the dog your car keys.
+you should give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+you should give the dog a hug.
+you should give the dog .
+contradiction
+
+# args:  <<*you* = you>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+you should give the dog a hug and a kiss.
+you should give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give me milk and spinach.
+the waiter can give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter can give me your car keys.
+the waiter can give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the waiter can give me a hug.
+the waiter can give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give me a hug and a kiss.
+the waiter can give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give your child milk and spinach.
+the waiter can give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter can give your child your car keys.
+the waiter can give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter can give your child a hug.
+the waiter can give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give your child a hug and a kiss.
+the waiter can give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give them milk and spinach.
+the waiter can give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter can give them your car keys.
+the waiter can give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter can give them a hug.
+the waiter can give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give them a hug and a kiss.
+the waiter can give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter can give the dog milk and spinach.
+the waiter can give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter can give the dog your car keys.
+the waiter can give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter can give the dog a hug.
+the waiter can give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter can give the dog a hug and a kiss.
+the waiter can give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give me milk and spinach.
+the waiter will give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter will give me your car keys.
+the waiter will give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the waiter will give me a hug.
+the waiter will give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter will give me a hug and a kiss.
+the waiter will give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give your child milk and spinach.
+the waiter will give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter will give your child your car keys.
+the waiter will give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter will give your child a hug.
+the waiter will give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter will give your child a hug and a kiss.
+the waiter will give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give them milk and spinach.
+the waiter will give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter will give them your car keys.
+the waiter will give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter will give them a hug.
+the waiter will give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter will give them a hug and a kiss.
+the waiter will give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter will give the dog milk and spinach.
+the waiter will give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter will give the dog your car keys.
+the waiter will give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter will give the dog a hug.
+the waiter will give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter will give the dog a hug and a kiss.
+the waiter will give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give me milk and spinach.
+the waiter won't give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give me your car keys.
+the waiter won't give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the waiter won't give me a hug.
+the waiter won't give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give me a hug and a kiss.
+the waiter won't give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give your child milk and spinach.
+the waiter won't give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give your child your car keys.
+the waiter won't give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter won't give your child a hug.
+the waiter won't give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give your child a hug and a kiss.
+the waiter won't give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give them milk and spinach.
+the waiter won't give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give them your car keys.
+the waiter won't give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter won't give them a hug.
+the waiter won't give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give them a hug and a kiss.
+the waiter won't give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter won't give the dog milk and spinach.
+the waiter won't give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter won't give the dog your car keys.
+the waiter won't give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter won't give the dog a hug.
+the waiter won't give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter won't give the dog a hug and a kiss.
+the waiter won't give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give me milk and spinach.
+the waiter should give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the waiter should give me your car keys.
+the waiter should give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the waiter should give me a hug.
+the waiter should give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give me a hug and a kiss.
+the waiter should give me .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give your child milk and spinach.
+the waiter should give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the waiter should give your child your car keys.
+the waiter should give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the waiter should give your child a hug.
+the waiter should give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give your child a hug and a kiss.
+the waiter should give your child .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give them milk and spinach.
+the waiter should give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the waiter should give them your car keys.
+the waiter should give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the waiter should give them a hug.
+the waiter should give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give them a hug and a kiss.
+the waiter should give them .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the waiter should give the dog milk and spinach.
+the waiter should give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the waiter should give the dog your car keys.
+the waiter should give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the waiter should give the dog a hug.
+the waiter should give the dog .
+contradiction
+
+# args:  <<*you* = the waiter>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the waiter should give the dog a hug and a kiss.
+the waiter should give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he can give me milk and spinach.
+he can give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he can give me your car keys.
+he can give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he can give me a hug.
+he can give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give me a hug and a kiss.
+he can give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he can give your child milk and spinach.
+he can give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he can give your child your car keys.
+he can give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he can give your child a hug.
+he can give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give your child a hug and a kiss.
+he can give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he can give them milk and spinach.
+he can give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he can give them your car keys.
+he can give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he can give them a hug.
+he can give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give them a hug and a kiss.
+he can give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he can give the dog milk and spinach.
+he can give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he can give the dog your car keys.
+he can give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he can give the dog a hug.
+he can give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he can give the dog a hug and a kiss.
+he can give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he will give me milk and spinach.
+he will give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he will give me your car keys.
+he will give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he will give me a hug.
+he will give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give me a hug and a kiss.
+he will give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he will give your child milk and spinach.
+he will give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he will give your child your car keys.
+he will give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he will give your child a hug.
+he will give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give your child a hug and a kiss.
+he will give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he will give them milk and spinach.
+he will give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he will give them your car keys.
+he will give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he will give them a hug.
+he will give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give them a hug and a kiss.
+he will give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he will give the dog milk and spinach.
+he will give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he will give the dog your car keys.
+he will give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he will give the dog a hug.
+he will give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he will give the dog a hug and a kiss.
+he will give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he won't give me milk and spinach.
+he won't give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he won't give me your car keys.
+he won't give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he won't give me a hug.
+he won't give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give me a hug and a kiss.
+he won't give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he won't give your child milk and spinach.
+he won't give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he won't give your child your car keys.
+he won't give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he won't give your child a hug.
+he won't give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give your child a hug and a kiss.
+he won't give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he won't give them milk and spinach.
+he won't give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he won't give them your car keys.
+he won't give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he won't give them a hug.
+he won't give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give them a hug and a kiss.
+he won't give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he won't give the dog milk and spinach.
+he won't give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he won't give the dog your car keys.
+he won't give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he won't give the dog a hug.
+he won't give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he won't give the dog a hug and a kiss.
+he won't give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+he should give me milk and spinach.
+he should give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+he should give me your car keys.
+he should give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+he should give me a hug.
+he should give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give me a hug and a kiss.
+he should give me .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+he should give your child milk and spinach.
+he should give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+he should give your child your car keys.
+he should give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+he should give your child a hug.
+he should give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give your child a hug and a kiss.
+he should give your child .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+he should give them milk and spinach.
+he should give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+he should give them your car keys.
+he should give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+he should give them a hug.
+he should give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give them a hug and a kiss.
+he should give them .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+he should give the dog milk and spinach.
+he should give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+he should give the dog your car keys.
+he should give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+he should give the dog a hug.
+he should give the dog .
+contradiction
+
+# args:  <<*you* = he>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+he should give the dog a hug and a kiss.
+he should give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef can give me milk and spinach.
+the chef can give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef can give me your car keys.
+the chef can give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef can give me a hug.
+the chef can give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give me a hug and a kiss.
+the chef can give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef can give your child milk and spinach.
+the chef can give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef can give your child your car keys.
+the chef can give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef can give your child a hug.
+the chef can give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give your child a hug and a kiss.
+the chef can give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef can give them milk and spinach.
+the chef can give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef can give them your car keys.
+the chef can give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef can give them a hug.
+the chef can give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give them a hug and a kiss.
+the chef can give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the chef can give the dog milk and spinach.
+the chef can give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef can give the dog your car keys.
+the chef can give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef can give the dog a hug.
+the chef can give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = can>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef can give the dog a hug and a kiss.
+the chef can give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give me milk and spinach.
+the chef will give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef will give me your car keys.
+the chef will give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef will give me a hug.
+the chef will give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef will give me a hug and a kiss.
+the chef will give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give your child milk and spinach.
+the chef will give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef will give your child your car keys.
+the chef will give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef will give your child a hug.
+the chef will give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef will give your child a hug and a kiss.
+the chef will give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give them milk and spinach.
+the chef will give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef will give them your car keys.
+the chef will give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef will give them a hug.
+the chef will give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef will give them a hug and a kiss.
+the chef will give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the chef will give the dog milk and spinach.
+the chef will give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef will give the dog your car keys.
+the chef will give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef will give the dog a hug.
+the chef will give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = will>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef will give the dog a hug and a kiss.
+the chef will give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give me milk and spinach.
+the chef won't give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef won't give me your car keys.
+the chef won't give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef won't give me a hug.
+the chef won't give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give me a hug and a kiss.
+the chef won't give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give your child milk and spinach.
+the chef won't give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef won't give your child your car keys.
+the chef won't give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef won't give your child a hug.
+the chef won't give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give your child a hug and a kiss.
+the chef won't give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give them milk and spinach.
+the chef won't give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef won't give them your car keys.
+the chef won't give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef won't give them a hug.
+the chef won't give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give them a hug and a kiss.
+the chef won't give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the chef won't give the dog milk and spinach.
+the chef won't give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef won't give the dog your car keys.
+the chef won't give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef won't give the dog a hug.
+the chef won't give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = won't>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef won't give the dog a hug and a kiss.
+the chef won't give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give me milk and spinach.
+the chef should give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = your car keys>> 
+the chef should give me your car keys.
+the chef should give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug>> 
+the chef should give me a hug.
+the chef should give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = me>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give me a hug and a kiss.
+the chef should give me .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give your child milk and spinach.
+the chef should give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = your car keys>> 
+the chef should give your child your car keys.
+the chef should give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug>> 
+the chef should give your child a hug.
+the chef should give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = your child>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give your child a hug and a kiss.
+the chef should give your child .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give them milk and spinach.
+the chef should give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = your car keys>> 
+the chef should give them your car keys.
+the chef should give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug>> 
+the chef should give them a hug.
+the chef should give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = them>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give them a hug and a kiss.
+the chef should give them .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = milk and spinach>> 
+the chef should give the dog milk and spinach.
+the chef should give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = your car keys>> 
+the chef should give the dog your car keys.
+the chef should give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug>> 
+the chef should give the dog a hug.
+the chef should give the dog .
+contradiction
+
+# args:  <<*you* = the chef>>  <<*can* = should>>  <<*me* = the dog>>  <<*milk and spinach* = a hug and a kiss>> 
+the chef should give the dog a hug and a kiss.
+the chef should give the dog .
+contradiction
+

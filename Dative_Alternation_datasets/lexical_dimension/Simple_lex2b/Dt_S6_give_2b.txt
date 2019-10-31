@@ -1,0 +1,854 @@
+#****** Set Name: T2_give_2b; Lexical: MNLI; Syntax: MNLI; Other:  *****
+########### Template: 0; Tense: UNK; Syntax: UNK; ##############
+### Hypothesis: 0
+# *you* *can* pass *me* *milk and spinach*.
+# *you* *can* pass *milk and spinach* to *me* .
+# entailment
+# *you*: our mom; the doctor; the grocer; 
+# *can*: should not; refused to; need to; 
+# *me*: the guest; the child; the baby; 
+# *milk and spinach*: your username and password; video games; a ball and the jacks; 
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the child a ball and the jacks.
+our mom should not pass a ball and the jacks to the child .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the baby your username and password.
+our mom should not pass your username and password to the baby .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the baby a ball and the jacks.
+our mom should not pass a ball and the jacks to the baby .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+our mom refused to pass the guest video games.
+our mom refused to pass video games to the guest .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the guest a ball and the jacks.
+our mom refused to pass a ball and the jacks to the guest .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom refused to pass the child video games.
+our mom refused to pass video games to the child .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the baby your username and password.
+our mom refused to pass your username and password to the baby .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+our mom need to pass the guest your username and password.
+our mom need to pass your username and password to the guest .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+our mom need to pass the guest video games.
+our mom need to pass video games to the guest .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom need to pass the child video games.
+our mom need to pass video games to the child .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the child a ball and the jacks.
+our mom need to pass a ball and the jacks to the child .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom need to pass the baby your username and password.
+our mom need to pass your username and password to the baby .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+our mom need to pass the baby video games.
+our mom need to pass video games to the baby .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the guest video games.
+the doctor should not pass video games to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the child video games.
+the doctor should not pass video games to the child .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the doctor should not pass the baby your username and password.
+the doctor should not pass your username and password to the baby .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor should not pass the baby a ball and the jacks.
+the doctor should not pass a ball and the jacks to the baby .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the guest video games.
+the doctor refused to pass video games to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the guest a ball and the jacks.
+the doctor refused to pass a ball and the jacks to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the child video games.
+the doctor refused to pass video games to the child .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the child a ball and the jacks.
+the doctor refused to pass a ball and the jacks to the child .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the baby a ball and the jacks.
+the doctor refused to pass a ball and the jacks to the baby .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the guest your username and password.
+the doctor need to pass your username and password to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the guest video games.
+the doctor need to pass video games to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the guest a ball and the jacks.
+the doctor need to pass a ball and the jacks to the guest .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the child your username and password.
+the doctor need to pass your username and password to the child .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the child a ball and the jacks.
+the doctor need to pass a ball and the jacks to the child .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the baby your username and password.
+the doctor need to pass your username and password to the baby .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the baby video games.
+the doctor need to pass video games to the baby .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the guest your username and password.
+the grocer should not pass your username and password to the guest .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the guest video games.
+the grocer should not pass video games to the guest .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the child your username and password.
+the grocer should not pass your username and password to the child .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the baby video games.
+the grocer should not pass video games to the baby .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the guest video games.
+the grocer refused to pass video games to the guest .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the child your username and password.
+the grocer refused to pass your username and password to the child .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the child video games.
+the grocer refused to pass video games to the child .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the guest video games.
+the grocer need to pass video games to the guest .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the guest a ball and the jacks.
+the grocer need to pass a ball and the jacks to the guest .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the child your username and password.
+the grocer need to pass your username and password to the child .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the child a ball and the jacks.
+the grocer need to pass a ball and the jacks to the child .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the baby a ball and the jacks.
+the grocer need to pass a ball and the jacks to the baby .
+entailment
+
+### Hypothesis: 1
+# *you* *can* pass *me* *milk and spinach*.
+# *you* *can* pass *milk and spinach* .
+# entailment
+# *you*: our mom; the doctor; the grocer; 
+# *can*: should not; refused to; need to; 
+# *me*: the guest; the child; the baby; 
+# *milk and spinach*: your username and password; video games; a ball and the jacks; 
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the child your username and password.
+our mom should not pass your username and password .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom should not pass the child video games.
+our mom should not pass video games .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the child a ball and the jacks.
+our mom should not pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the baby your username and password.
+our mom should not pass your username and password .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+our mom should not pass the baby video games.
+our mom should not pass video games .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the guest your username and password.
+our mom refused to pass your username and password .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the guest a ball and the jacks.
+our mom refused to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the child your username and password.
+our mom refused to pass your username and password .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the baby a ball and the jacks.
+our mom refused to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the child a ball and the jacks.
+our mom need to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the baby a ball and the jacks.
+our mom need to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor should not pass the guest your username and password.
+the doctor should not pass your username and password .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor should not pass the guest a ball and the jacks.
+the doctor should not pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the child video games.
+the doctor should not pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the baby video games.
+the doctor should not pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the guest video games.
+the doctor refused to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor refused to pass the child your username and password.
+the doctor refused to pass your username and password .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the child video games.
+the doctor refused to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the child a ball and the jacks.
+the doctor refused to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the baby video games.
+the doctor refused to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the guest your username and password.
+the doctor need to pass your username and password .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the guest video games.
+the doctor need to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the child your username and password.
+the doctor need to pass your username and password .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the child video games.
+the doctor need to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the baby video games.
+the doctor need to pass video games .
+entailment
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the baby a ball and the jacks.
+the doctor need to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the guest your username and password.
+the grocer should not pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the guest video games.
+the grocer should not pass video games .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer should not pass the guest a ball and the jacks.
+the grocer should not pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the child video games.
+the grocer should not pass video games .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer should not pass the child a ball and the jacks.
+the grocer should not pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the baby your username and password.
+the grocer should not pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the guest your username and password.
+the grocer refused to pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the guest video games.
+the grocer refused to pass video games .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the child your username and password.
+the grocer refused to pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer refused to pass the child a ball and the jacks.
+the grocer refused to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer refused to pass the baby a ball and the jacks.
+the grocer refused to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the guest your username and password.
+the grocer need to pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the guest a ball and the jacks.
+the grocer need to pass a ball and the jacks .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the child video games.
+the grocer need to pass video games .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the baby your username and password.
+the grocer need to pass your username and password .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the baby video games.
+the grocer need to pass video games .
+entailment
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the baby a ball and the jacks.
+the grocer need to pass a ball and the jacks .
+entailment
+
+### Hypothesis: 2
+# *you* *can* pass *me* *milk and spinach*.
+# *you* *can* pass *me* .
+# contradiction
+# *you*: our mom; the doctor; the grocer; 
+# *can*: should not; refused to; need to; 
+# *me*: the guest; the child; the baby; 
+# *milk and spinach*: your username and password; video games; a ball and the jacks; 
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the guest your username and password.
+our mom should not pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+our mom should not pass the guest video games.
+our mom should not pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the guest a ball and the jacks.
+our mom should not pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the child your username and password.
+our mom should not pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom should not pass the child video games.
+our mom should not pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the child a ball and the jacks.
+our mom should not pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom should not pass the baby your username and password.
+our mom should not pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+our mom should not pass the baby video games.
+our mom should not pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom should not pass the baby a ball and the jacks.
+our mom should not pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the guest your username and password.
+our mom refused to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+our mom refused to pass the guest video games.
+our mom refused to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the guest a ball and the jacks.
+our mom refused to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the child your username and password.
+our mom refused to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom refused to pass the child video games.
+our mom refused to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the child a ball and the jacks.
+our mom refused to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom refused to pass the baby your username and password.
+our mom refused to pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+our mom refused to pass the baby video games.
+our mom refused to pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom refused to pass the baby a ball and the jacks.
+our mom refused to pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+our mom need to pass the guest your username and password.
+our mom need to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+our mom need to pass the guest video games.
+our mom need to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the guest a ball and the jacks.
+our mom need to pass the guest .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+our mom need to pass the child your username and password.
+our mom need to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+our mom need to pass the child video games.
+our mom need to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the child a ball and the jacks.
+our mom need to pass the child .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+our mom need to pass the baby your username and password.
+our mom need to pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+our mom need to pass the baby video games.
+our mom need to pass the baby .
+contradiction
+
+# args:  <<*you* = our mom>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+our mom need to pass the baby a ball and the jacks.
+our mom need to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor should not pass the guest your username and password.
+the doctor should not pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the guest video games.
+the doctor should not pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor should not pass the guest a ball and the jacks.
+the doctor should not pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor should not pass the child your username and password.
+the doctor should not pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the child video games.
+the doctor should not pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor should not pass the child a ball and the jacks.
+the doctor should not pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the doctor should not pass the baby your username and password.
+the doctor should not pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor should not pass the baby video games.
+the doctor should not pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor should not pass the baby a ball and the jacks.
+the doctor should not pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor refused to pass the guest your username and password.
+the doctor refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the guest video games.
+the doctor refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the guest a ball and the jacks.
+the doctor refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor refused to pass the child your username and password.
+the doctor refused to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the child video games.
+the doctor refused to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the child a ball and the jacks.
+the doctor refused to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the doctor refused to pass the baby your username and password.
+the doctor refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor refused to pass the baby video games.
+the doctor refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor refused to pass the baby a ball and the jacks.
+the doctor refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the guest your username and password.
+the doctor need to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the guest video games.
+the doctor need to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the guest a ball and the jacks.
+the doctor need to pass the guest .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the child your username and password.
+the doctor need to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the child video games.
+the doctor need to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the child a ball and the jacks.
+the doctor need to pass the child .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the doctor need to pass the baby your username and password.
+the doctor need to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the doctor need to pass the baby video games.
+the doctor need to pass the baby .
+contradiction
+
+# args:  <<*you* = the doctor>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the doctor need to pass the baby a ball and the jacks.
+the doctor need to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the guest your username and password.
+the grocer should not pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the guest video games.
+the grocer should not pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer should not pass the guest a ball and the jacks.
+the grocer should not pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the child your username and password.
+the grocer should not pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the child video games.
+the grocer should not pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer should not pass the child a ball and the jacks.
+the grocer should not pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the grocer should not pass the baby your username and password.
+the grocer should not pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the grocer should not pass the baby video games.
+the grocer should not pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = should not>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer should not pass the baby a ball and the jacks.
+the grocer should not pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the guest your username and password.
+the grocer refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the guest video games.
+the grocer refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer refused to pass the guest a ball and the jacks.
+the grocer refused to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the child your username and password.
+the grocer refused to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the child video games.
+the grocer refused to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer refused to pass the child a ball and the jacks.
+the grocer refused to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the grocer refused to pass the baby your username and password.
+the grocer refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the grocer refused to pass the baby video games.
+the grocer refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = refused to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer refused to pass the baby a ball and the jacks.
+the grocer refused to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the guest your username and password.
+the grocer need to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the guest video games.
+the grocer need to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the guest>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the guest a ball and the jacks.
+the grocer need to pass the guest .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the child your username and password.
+the grocer need to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the child video games.
+the grocer need to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the child>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the child a ball and the jacks.
+the grocer need to pass the child .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = your username and password>> 
+the grocer need to pass the baby your username and password.
+the grocer need to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = video games>> 
+the grocer need to pass the baby video games.
+the grocer need to pass the baby .
+contradiction
+
+# args:  <<*you* = the grocer>>  <<*can* = need to>>  <<*me* = the baby>>  <<*milk and spinach* = a ball and the jacks>> 
+the grocer need to pass the baby a ball and the jacks.
+the grocer need to pass the baby .
+contradiction
+

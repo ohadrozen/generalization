@@ -1,0 +1,2505 @@
+### Hypothesis: 0
+# *you know* *you* make *them* *clothes* *and everything like that*
+# *you know* *you* make *clothes* for *them* *and everything like that*
+# entailment
+# *you know*: like your mom; alice doesn't know; who knows; 
+# *you*: tribes can; craig; the tailor; 
+# *them*: those animals; these lovers; the workers; 
+# *clothes*: puzzles; weapons; dinner; 
+# *and everything like that*: to sell for money; that don't fit; out of old rags; 
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals puzzles out of old rags
+like your mom tribes can make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals weapons to sell for money
+like your mom tribes can make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals weapons that don't fit
+like your mom tribes can make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals dinner to sell for money
+like your mom tribes can make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals dinner that don't fit
+like your mom tribes can make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals dinner out of old rags
+like your mom tribes can make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers puzzles that don't fit
+like your mom tribes can make puzzles for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make these lovers puzzles out of old rags
+like your mom tribes can make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make these lovers dinner to sell for money
+like your mom tribes can make dinner for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make these lovers dinner out of old rags
+like your mom tribes can make dinner for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers puzzles to sell for money
+like your mom tribes can make puzzles for the workers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers puzzles that don't fit
+like your mom tribes can make puzzles for the workers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers puzzles out of old rags
+like your mom tribes can make puzzles for the workers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers weapons to sell for money
+like your mom tribes can make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers weapons out of old rags
+like your mom tribes can make weapons for the workers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers dinner to sell for money
+like your mom tribes can make dinner for the workers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers dinner that don't fit
+like your mom tribes can make dinner for the workers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals puzzles that don't fit
+like your mom craig make puzzles for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals weapons out of old rags
+like your mom craig make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make those animals dinner to sell for money
+like your mom craig make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals dinner that don't fit
+like your mom craig make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals dinner out of old rags
+like your mom craig make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers puzzles that don't fit
+like your mom craig make puzzles for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers weapons out of old rags
+like your mom craig make weapons for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers dinner that don't fit
+like your mom craig make dinner for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers dinner out of old rags
+like your mom craig make dinner for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers puzzles that don't fit
+like your mom craig make puzzles for the workers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers weapons to sell for money
+like your mom craig make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers weapons that don't fit
+like your mom craig make weapons for the workers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers dinner to sell for money
+like your mom craig make dinner for the workers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers dinner that don't fit
+like your mom craig make dinner for the workers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals puzzles to sell for money
+like your mom the tailor make puzzles for those animals to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals puzzles out of old rags
+like your mom the tailor make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals weapons to sell for money
+like your mom the tailor make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals weapons that don't fit
+like your mom the tailor make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals weapons out of old rags
+like your mom the tailor make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals dinner that don't fit
+like your mom the tailor make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals dinner out of old rags
+like your mom the tailor make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make these lovers puzzles that don't fit
+like your mom the tailor make puzzles for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers puzzles out of old rags
+like your mom the tailor make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make these lovers weapons to sell for money
+like your mom the tailor make weapons for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make these lovers weapons that don't fit
+like your mom the tailor make weapons for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers dinner out of old rags
+like your mom the tailor make dinner for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make the workers puzzles out of old rags
+like your mom the tailor make puzzles for the workers out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make the workers weapons out of old rags
+like your mom the tailor make weapons for the workers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals puzzles to sell for money
+alice doesn't know tribes can make puzzles for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals puzzles out of old rags
+alice doesn't know tribes can make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals weapons to sell for money
+alice doesn't know tribes can make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make those animals weapons that don't fit
+alice doesn't know tribes can make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals dinner to sell for money
+alice doesn't know tribes can make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals dinner out of old rags
+alice doesn't know tribes can make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers puzzles to sell for money
+alice doesn't know tribes can make puzzles for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers puzzles out of old rags
+alice doesn't know tribes can make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers weapons to sell for money
+alice doesn't know tribes can make weapons for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers dinner to sell for money
+alice doesn't know tribes can make dinner for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make the workers puzzles to sell for money
+alice doesn't know tribes can make puzzles for the workers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers puzzles out of old rags
+alice doesn't know tribes can make puzzles for the workers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers dinner out of old rags
+alice doesn't know tribes can make dinner for the workers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals puzzles to sell for money
+alice doesn't know craig make puzzles for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals puzzles that don't fit
+alice doesn't know craig make puzzles for those animals that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals puzzles out of old rags
+alice doesn't know craig make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals weapons to sell for money
+alice doesn't know craig make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals weapons that don't fit
+alice doesn't know craig make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals weapons out of old rags
+alice doesn't know craig make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals dinner to sell for money
+alice doesn't know craig make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals dinner out of old rags
+alice doesn't know craig make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers puzzles to sell for money
+alice doesn't know craig make puzzles for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers puzzles out of old rags
+alice doesn't know craig make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers weapons that don't fit
+alice doesn't know craig make weapons for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers weapons out of old rags
+alice doesn't know craig make weapons for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers puzzles out of old rags
+alice doesn't know craig make puzzles for the workers out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make the workers weapons to sell for money
+alice doesn't know craig make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers weapons that don't fit
+alice doesn't know craig make weapons for the workers that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make those animals puzzles out of old rags
+alice doesn't know the tailor make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make those animals weapons that don't fit
+alice doesn't know the tailor make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals dinner to sell for money
+alice doesn't know the tailor make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make those animals dinner that don't fit
+alice doesn't know the tailor make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make these lovers puzzles to sell for money
+alice doesn't know the tailor make puzzles for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers puzzles to sell for money
+alice doesn't know the tailor make puzzles for the workers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers weapons to sell for money
+alice doesn't know the tailor make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers weapons that don't fit
+alice doesn't know the tailor make weapons for the workers that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers dinner to sell for money
+alice doesn't know the tailor make dinner for the workers to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers dinner that don't fit
+alice doesn't know the tailor make dinner for the workers that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers dinner out of old rags
+alice doesn't know the tailor make dinner for the workers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals puzzles out of old rags
+who knows tribes can make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make those animals weapons to sell for money
+who knows tribes can make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals weapons out of old rags
+who knows tribes can make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals dinner that don't fit
+who knows tribes can make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals dinner out of old rags
+who knows tribes can make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers puzzles to sell for money
+who knows tribes can make puzzles for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers puzzles that don't fit
+who knows tribes can make puzzles for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers weapons out of old rags
+who knows tribes can make weapons for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers dinner to sell for money
+who knows tribes can make dinner for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers dinner that don't fit
+who knows tribes can make dinner for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers puzzles that don't fit
+who knows tribes can make puzzles for the workers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers weapons to sell for money
+who knows tribes can make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers weapons that don't fit
+who knows tribes can make weapons for the workers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers weapons out of old rags
+who knows tribes can make weapons for the workers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers dinner that don't fit
+who knows tribes can make dinner for the workers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers dinner out of old rags
+who knows tribes can make dinner for the workers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals puzzles to sell for money
+who knows craig make puzzles for those animals to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals puzzles out of old rags
+who knows craig make puzzles for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals weapons that don't fit
+who knows craig make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals weapons out of old rags
+who knows craig make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals dinner that don't fit
+who knows craig make dinner for those animals that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals dinner out of old rags
+who knows craig make dinner for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers puzzles to sell for money
+who knows craig make puzzles for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers puzzles that don't fit
+who knows craig make puzzles for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make these lovers puzzles out of old rags
+who knows craig make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers weapons to sell for money
+who knows craig make weapons for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers weapons that don't fit
+who knows craig make weapons for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers dinner to sell for money
+who knows craig make dinner for these lovers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers dinner that don't fit
+who knows craig make dinner for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers weapons to sell for money
+who knows craig make weapons for the workers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows craig make the workers weapons out of old rags
+who knows craig make weapons for the workers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers dinner to sell for money
+who knows craig make dinner for the workers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals weapons to sell for money
+who knows the tailor make weapons for those animals to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make those animals weapons that don't fit
+who knows the tailor make weapons for those animals that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make those animals weapons out of old rags
+who knows the tailor make weapons for those animals out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals dinner to sell for money
+who knows the tailor make dinner for those animals to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers puzzles out of old rags
+who knows the tailor make puzzles for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make these lovers weapons that don't fit
+who knows the tailor make weapons for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make these lovers dinner that don't fit
+who knows the tailor make dinner for these lovers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers dinner out of old rags
+who knows the tailor make dinner for these lovers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers puzzles to sell for money
+who knows the tailor make puzzles for the workers to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers puzzles that don't fit
+who knows the tailor make puzzles for the workers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers puzzles out of old rags
+who knows the tailor make puzzles for the workers out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers weapons that don't fit
+who knows the tailor make weapons for the workers that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers dinner that don't fit
+who knows the tailor make dinner for the workers that don't fit
+entailment
+
+### Hypothesis: 1
+# *you know* *you* make *them* *clothes* *and everything like that*
+# *you know* *you* make *clothes* *and everything like that*
+# entailment
+# *you know*: like your mom; alice doesn't know; who knows; 
+# *you*: tribes can; craig; the tailor; 
+# *them*: those animals; these lovers; the workers; 
+# *clothes*: puzzles; weapons; dinner; 
+# *and everything like that*: to sell for money; that don't fit; out of old rags; 
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals puzzles out of old rags
+like your mom tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals weapons to sell for money
+like your mom tribes can make weapons to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals weapons that don't fit
+like your mom tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals dinner out of old rags
+like your mom tribes can make dinner out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers puzzles that don't fit
+like your mom tribes can make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers weapons that don't fit
+like your mom tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers puzzles out of old rags
+like your mom tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers weapons to sell for money
+like your mom tribes can make weapons to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers weapons that don't fit
+like your mom tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers weapons out of old rags
+like your mom tribes can make weapons out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers dinner to sell for money
+like your mom tribes can make dinner to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers dinner that don't fit
+like your mom tribes can make dinner that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make those animals puzzles to sell for money
+like your mom craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals puzzles that don't fit
+like your mom craig make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals puzzles out of old rags
+like your mom craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals weapons that don't fit
+like your mom craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make these lovers puzzles to sell for money
+like your mom craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers weapons that don't fit
+like your mom craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers dinner that don't fit
+like your mom craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers dinner out of old rags
+like your mom craig make dinner out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers puzzles to sell for money
+like your mom craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers puzzles that don't fit
+like your mom craig make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make the workers puzzles out of old rags
+like your mom craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers weapons that don't fit
+like your mom craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers dinner that don't fit
+like your mom craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make the workers dinner out of old rags
+like your mom craig make dinner out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals puzzles to sell for money
+like your mom the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals puzzles that don't fit
+like your mom the tailor make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals weapons to sell for money
+like your mom the tailor make weapons to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals weapons that don't fit
+like your mom the tailor make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals weapons out of old rags
+like your mom the tailor make weapons out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals dinner to sell for money
+like your mom the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals dinner that don't fit
+like your mom the tailor make dinner that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers puzzles out of old rags
+like your mom the tailor make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make these lovers weapons to sell for money
+like your mom the tailor make weapons to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers weapons out of old rags
+like your mom the tailor make weapons out of old rags
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers puzzles that don't fit
+like your mom the tailor make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make the workers weapons to sell for money
+like your mom the tailor make weapons to sell for money
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers weapons that don't fit
+like your mom the tailor make weapons that don't fit
+entailment
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers dinner that don't fit
+like your mom the tailor make dinner that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make those animals puzzles that don't fit
+alice doesn't know tribes can make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals puzzles out of old rags
+alice doesn't know tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers puzzles out of old rags
+alice doesn't know tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers weapons to sell for money
+alice doesn't know tribes can make weapons to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make these lovers weapons that don't fit
+alice doesn't know tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers weapons out of old rags
+alice doesn't know tribes can make weapons out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers dinner to sell for money
+alice doesn't know tribes can make dinner to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers dinner out of old rags
+alice doesn't know tribes can make dinner out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make the workers puzzles to sell for money
+alice doesn't know tribes can make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make the workers puzzles that don't fit
+alice doesn't know tribes can make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers puzzles out of old rags
+alice doesn't know tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make the workers weapons that don't fit
+alice doesn't know tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers dinner out of old rags
+alice doesn't know tribes can make dinner out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals puzzles to sell for money
+alice doesn't know craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals puzzles out of old rags
+alice doesn't know craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals weapons to sell for money
+alice doesn't know craig make weapons to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals weapons that don't fit
+alice doesn't know craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals dinner out of old rags
+alice doesn't know craig make dinner out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers puzzles to sell for money
+alice doesn't know craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers puzzles that don't fit
+alice doesn't know craig make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers weapons to sell for money
+alice doesn't know craig make weapons to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers weapons that don't fit
+alice doesn't know craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers weapons out of old rags
+alice doesn't know craig make weapons out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers dinner that don't fit
+alice doesn't know craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make the workers puzzles to sell for money
+alice doesn't know craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers puzzles out of old rags
+alice doesn't know craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers weapons that don't fit
+alice doesn't know craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers dinner that don't fit
+alice doesn't know craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers dinner out of old rags
+alice doesn't know craig make dinner out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals puzzles to sell for money
+alice doesn't know the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make those animals weapons out of old rags
+alice doesn't know the tailor make weapons out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals dinner to sell for money
+alice doesn't know the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make these lovers puzzles that don't fit
+alice doesn't know the tailor make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make these lovers weapons that don't fit
+alice doesn't know the tailor make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make these lovers dinner to sell for money
+alice doesn't know the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make these lovers dinner out of old rags
+alice doesn't know the tailor make dinner out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers puzzles to sell for money
+alice doesn't know the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers puzzles out of old rags
+alice doesn't know the tailor make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers weapons to sell for money
+alice doesn't know the tailor make weapons to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers weapons that don't fit
+alice doesn't know the tailor make weapons that don't fit
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers weapons out of old rags
+alice doesn't know the tailor make weapons out of old rags
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers dinner to sell for money
+alice doesn't know the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers dinner out of old rags
+alice doesn't know the tailor make dinner out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals puzzles that don't fit
+who knows tribes can make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals puzzles out of old rags
+who knows tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals dinner that don't fit
+who knows tribes can make dinner that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals dinner out of old rags
+who knows tribes can make dinner out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers puzzles out of old rags
+who knows tribes can make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers weapons that don't fit
+who knows tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers weapons out of old rags
+who knows tribes can make weapons out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers dinner to sell for money
+who knows tribes can make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers dinner that don't fit
+who knows tribes can make dinner that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers weapons to sell for money
+who knows tribes can make weapons to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers weapons that don't fit
+who knows tribes can make weapons that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers weapons out of old rags
+who knows tribes can make weapons out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers dinner to sell for money
+who knows tribes can make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers dinner that don't fit
+who knows tribes can make dinner that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals puzzles to sell for money
+who knows craig make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals puzzles that don't fit
+who knows craig make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals weapons that don't fit
+who knows craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals dinner to sell for money
+who knows craig make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals dinner that don't fit
+who knows craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals dinner out of old rags
+who knows craig make dinner out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers puzzles that don't fit
+who knows craig make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make these lovers puzzles out of old rags
+who knows craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers weapons that don't fit
+who knows craig make weapons that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers dinner to sell for money
+who knows craig make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make the workers puzzles out of old rags
+who knows craig make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers weapons to sell for money
+who knows craig make weapons to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers dinner to sell for money
+who knows craig make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make the workers dinner that don't fit
+who knows craig make dinner that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals puzzles to sell for money
+who knows the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make those animals weapons out of old rags
+who knows the tailor make weapons out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals dinner to sell for money
+who knows the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make these lovers puzzles to sell for money
+who knows the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers puzzles out of old rags
+who knows the tailor make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make these lovers dinner to sell for money
+who knows the tailor make dinner to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers dinner out of old rags
+who knows the tailor make dinner out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers puzzles to sell for money
+who knows the tailor make puzzles to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers puzzles that don't fit
+who knows the tailor make puzzles that don't fit
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers puzzles out of old rags
+who knows the tailor make puzzles out of old rags
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers weapons to sell for money
+who knows the tailor make weapons to sell for money
+entailment
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers dinner out of old rags
+who knows the tailor make dinner out of old rags
+entailment
+
+### Hypothesis: 2
+# *you know* *you* make *them* *clothes* *and everything like that*
+# *you know* *you* make *them* *and everything like that*
+# contradiction
+# *you know*: like your mom; alice doesn't know; who knows; 
+# *you*: tribes can; craig; the tailor; 
+# *them*: those animals; these lovers; the workers; 
+# *clothes*: puzzles; weapons; dinner; 
+# *and everything like that*: to sell for money; that don't fit; out of old rags; 
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals puzzles to sell for money
+like your mom tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals puzzles that don't fit
+like your mom tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals puzzles out of old rags
+like your mom tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals weapons to sell for money
+like your mom tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals weapons that don't fit
+like your mom tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals weapons out of old rags
+like your mom tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make those animals dinner to sell for money
+like your mom tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make those animals dinner that don't fit
+like your mom tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make those animals dinner out of old rags
+like your mom tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make these lovers puzzles to sell for money
+like your mom tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers puzzles that don't fit
+like your mom tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make these lovers puzzles out of old rags
+like your mom tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make these lovers weapons to sell for money
+like your mom tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers weapons that don't fit
+like your mom tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make these lovers weapons out of old rags
+like your mom tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make these lovers dinner to sell for money
+like your mom tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make these lovers dinner that don't fit
+like your mom tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make these lovers dinner out of old rags
+like your mom tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers puzzles to sell for money
+like your mom tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers puzzles that don't fit
+like your mom tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers puzzles out of old rags
+like your mom tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers weapons to sell for money
+like your mom tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers weapons that don't fit
+like your mom tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers weapons out of old rags
+like your mom tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom tribes can make the workers dinner to sell for money
+like your mom tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom tribes can make the workers dinner that don't fit
+like your mom tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom tribes can make the workers dinner out of old rags
+like your mom tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make those animals puzzles to sell for money
+like your mom craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals puzzles that don't fit
+like your mom craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals puzzles out of old rags
+like your mom craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make those animals weapons to sell for money
+like your mom craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals weapons that don't fit
+like your mom craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals weapons out of old rags
+like your mom craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make those animals dinner to sell for money
+like your mom craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make those animals dinner that don't fit
+like your mom craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make those animals dinner out of old rags
+like your mom craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make these lovers puzzles to sell for money
+like your mom craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers puzzles that don't fit
+like your mom craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers puzzles out of old rags
+like your mom craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make these lovers weapons to sell for money
+like your mom craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers weapons that don't fit
+like your mom craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers weapons out of old rags
+like your mom craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make these lovers dinner to sell for money
+like your mom craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make these lovers dinner that don't fit
+like your mom craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make these lovers dinner out of old rags
+like your mom craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers puzzles to sell for money
+like your mom craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers puzzles that don't fit
+like your mom craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make the workers puzzles out of old rags
+like your mom craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers weapons to sell for money
+like your mom craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers weapons that don't fit
+like your mom craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make the workers weapons out of old rags
+like your mom craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom craig make the workers dinner to sell for money
+like your mom craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom craig make the workers dinner that don't fit
+like your mom craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom craig make the workers dinner out of old rags
+like your mom craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals puzzles to sell for money
+like your mom the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals puzzles that don't fit
+like your mom the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals puzzles out of old rags
+like your mom the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals weapons to sell for money
+like your mom the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals weapons that don't fit
+like your mom the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals weapons out of old rags
+like your mom the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make those animals dinner to sell for money
+like your mom the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make those animals dinner that don't fit
+like your mom the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make those animals dinner out of old rags
+like your mom the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make these lovers puzzles to sell for money
+like your mom the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make these lovers puzzles that don't fit
+like your mom the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers puzzles out of old rags
+like your mom the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make these lovers weapons to sell for money
+like your mom the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make these lovers weapons that don't fit
+like your mom the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers weapons out of old rags
+like your mom the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make these lovers dinner to sell for money
+like your mom the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make these lovers dinner that don't fit
+like your mom the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make these lovers dinner out of old rags
+like your mom the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make the workers puzzles to sell for money
+like your mom the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers puzzles that don't fit
+like your mom the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make the workers puzzles out of old rags
+like your mom the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make the workers weapons to sell for money
+like your mom the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers weapons that don't fit
+like your mom the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make the workers weapons out of old rags
+like your mom the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+like your mom the tailor make the workers dinner to sell for money
+like your mom the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+like your mom the tailor make the workers dinner that don't fit
+like your mom the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = like your mom>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+like your mom the tailor make the workers dinner out of old rags
+like your mom the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals puzzles to sell for money
+alice doesn't know tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make those animals puzzles that don't fit
+alice doesn't know tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals puzzles out of old rags
+alice doesn't know tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals weapons to sell for money
+alice doesn't know tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make those animals weapons that don't fit
+alice doesn't know tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals weapons out of old rags
+alice doesn't know tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make those animals dinner to sell for money
+alice doesn't know tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make those animals dinner that don't fit
+alice doesn't know tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make those animals dinner out of old rags
+alice doesn't know tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers puzzles to sell for money
+alice doesn't know tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make these lovers puzzles that don't fit
+alice doesn't know tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers puzzles out of old rags
+alice doesn't know tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers weapons to sell for money
+alice doesn't know tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make these lovers weapons that don't fit
+alice doesn't know tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers weapons out of old rags
+alice doesn't know tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make these lovers dinner to sell for money
+alice doesn't know tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make these lovers dinner that don't fit
+alice doesn't know tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make these lovers dinner out of old rags
+alice doesn't know tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make the workers puzzles to sell for money
+alice doesn't know tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make the workers puzzles that don't fit
+alice doesn't know tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers puzzles out of old rags
+alice doesn't know tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make the workers weapons to sell for money
+alice doesn't know tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make the workers weapons that don't fit
+alice doesn't know tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers weapons out of old rags
+alice doesn't know tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know tribes can make the workers dinner to sell for money
+alice doesn't know tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know tribes can make the workers dinner that don't fit
+alice doesn't know tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know tribes can make the workers dinner out of old rags
+alice doesn't know tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals puzzles to sell for money
+alice doesn't know craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals puzzles that don't fit
+alice doesn't know craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals puzzles out of old rags
+alice doesn't know craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals weapons to sell for money
+alice doesn't know craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals weapons that don't fit
+alice doesn't know craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals weapons out of old rags
+alice doesn't know craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make those animals dinner to sell for money
+alice doesn't know craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make those animals dinner that don't fit
+alice doesn't know craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make those animals dinner out of old rags
+alice doesn't know craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers puzzles to sell for money
+alice doesn't know craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers puzzles that don't fit
+alice doesn't know craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers puzzles out of old rags
+alice doesn't know craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers weapons to sell for money
+alice doesn't know craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers weapons that don't fit
+alice doesn't know craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers weapons out of old rags
+alice doesn't know craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make these lovers dinner to sell for money
+alice doesn't know craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make these lovers dinner that don't fit
+alice doesn't know craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make these lovers dinner out of old rags
+alice doesn't know craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make the workers puzzles to sell for money
+alice doesn't know craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers puzzles that don't fit
+alice doesn't know craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers puzzles out of old rags
+alice doesn't know craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make the workers weapons to sell for money
+alice doesn't know craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers weapons that don't fit
+alice doesn't know craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers weapons out of old rags
+alice doesn't know craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know craig make the workers dinner to sell for money
+alice doesn't know craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know craig make the workers dinner that don't fit
+alice doesn't know craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know craig make the workers dinner out of old rags
+alice doesn't know craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals puzzles to sell for money
+alice doesn't know the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make those animals puzzles that don't fit
+alice doesn't know the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make those animals puzzles out of old rags
+alice doesn't know the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals weapons to sell for money
+alice doesn't know the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make those animals weapons that don't fit
+alice doesn't know the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make those animals weapons out of old rags
+alice doesn't know the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make those animals dinner to sell for money
+alice doesn't know the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make those animals dinner that don't fit
+alice doesn't know the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make those animals dinner out of old rags
+alice doesn't know the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make these lovers puzzles to sell for money
+alice doesn't know the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make these lovers puzzles that don't fit
+alice doesn't know the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make these lovers puzzles out of old rags
+alice doesn't know the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make these lovers weapons to sell for money
+alice doesn't know the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make these lovers weapons that don't fit
+alice doesn't know the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make these lovers weapons out of old rags
+alice doesn't know the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make these lovers dinner to sell for money
+alice doesn't know the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make these lovers dinner that don't fit
+alice doesn't know the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make these lovers dinner out of old rags
+alice doesn't know the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers puzzles to sell for money
+alice doesn't know the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers puzzles that don't fit
+alice doesn't know the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers puzzles out of old rags
+alice doesn't know the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers weapons to sell for money
+alice doesn't know the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers weapons that don't fit
+alice doesn't know the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers weapons out of old rags
+alice doesn't know the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+alice doesn't know the tailor make the workers dinner to sell for money
+alice doesn't know the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+alice doesn't know the tailor make the workers dinner that don't fit
+alice doesn't know the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = alice doesn't know>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+alice doesn't know the tailor make the workers dinner out of old rags
+alice doesn't know the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make those animals puzzles to sell for money
+who knows tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals puzzles that don't fit
+who knows tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals puzzles out of old rags
+who knows tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make those animals weapons to sell for money
+who knows tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals weapons that don't fit
+who knows tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals weapons out of old rags
+who knows tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make those animals dinner to sell for money
+who knows tribes can make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make those animals dinner that don't fit
+who knows tribes can make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make those animals dinner out of old rags
+who knows tribes can make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers puzzles to sell for money
+who knows tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers puzzles that don't fit
+who knows tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers puzzles out of old rags
+who knows tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers weapons to sell for money
+who knows tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers weapons that don't fit
+who knows tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers weapons out of old rags
+who knows tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make these lovers dinner to sell for money
+who knows tribes can make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make these lovers dinner that don't fit
+who knows tribes can make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make these lovers dinner out of old rags
+who knows tribes can make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers puzzles to sell for money
+who knows tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers puzzles that don't fit
+who knows tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers puzzles out of old rags
+who knows tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers weapons to sell for money
+who knows tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers weapons that don't fit
+who knows tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers weapons out of old rags
+who knows tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows tribes can make the workers dinner to sell for money
+who knows tribes can make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows tribes can make the workers dinner that don't fit
+who knows tribes can make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = tribes can>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows tribes can make the workers dinner out of old rags
+who knows tribes can make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals puzzles to sell for money
+who knows craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals puzzles that don't fit
+who knows craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals puzzles out of old rags
+who knows craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals weapons to sell for money
+who knows craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals weapons that don't fit
+who knows craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals weapons out of old rags
+who knows craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make those animals dinner to sell for money
+who knows craig make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make those animals dinner that don't fit
+who knows craig make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows craig make those animals dinner out of old rags
+who knows craig make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers puzzles to sell for money
+who knows craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers puzzles that don't fit
+who knows craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make these lovers puzzles out of old rags
+who knows craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers weapons to sell for money
+who knows craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers weapons that don't fit
+who knows craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows craig make these lovers weapons out of old rags
+who knows craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make these lovers dinner to sell for money
+who knows craig make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make these lovers dinner that don't fit
+who knows craig make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows craig make these lovers dinner out of old rags
+who knows craig make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers puzzles to sell for money
+who knows craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows craig make the workers puzzles that don't fit
+who knows craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows craig make the workers puzzles out of old rags
+who knows craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers weapons to sell for money
+who knows craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows craig make the workers weapons that don't fit
+who knows craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows craig make the workers weapons out of old rags
+who knows craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows craig make the workers dinner to sell for money
+who knows craig make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows craig make the workers dinner that don't fit
+who knows craig make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = craig>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows craig make the workers dinner out of old rags
+who knows craig make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals puzzles to sell for money
+who knows the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make those animals puzzles that don't fit
+who knows the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make those animals puzzles out of old rags
+who knows the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals weapons to sell for money
+who knows the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make those animals weapons that don't fit
+who knows the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make those animals weapons out of old rags
+who knows the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make those animals dinner to sell for money
+who knows the tailor make those animals to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make those animals dinner that don't fit
+who knows the tailor make those animals that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = those animals>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make those animals dinner out of old rags
+who knows the tailor make those animals out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make these lovers puzzles to sell for money
+who knows the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make these lovers puzzles that don't fit
+who knows the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers puzzles out of old rags
+who knows the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make these lovers weapons to sell for money
+who knows the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make these lovers weapons that don't fit
+who knows the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers weapons out of old rags
+who knows the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make these lovers dinner to sell for money
+who knows the tailor make these lovers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make these lovers dinner that don't fit
+who knows the tailor make these lovers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = these lovers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make these lovers dinner out of old rags
+who knows the tailor make these lovers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers puzzles to sell for money
+who knows the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers puzzles that don't fit
+who knows the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = puzzles>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers puzzles out of old rags
+who knows the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers weapons to sell for money
+who knows the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers weapons that don't fit
+who knows the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = weapons>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers weapons out of old rags
+who knows the tailor make the workers out of old rags
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = to sell for money>> 
+who knows the tailor make the workers dinner to sell for money
+who knows the tailor make the workers to sell for money
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = that don't fit>> 
+who knows the tailor make the workers dinner that don't fit
+who knows the tailor make the workers that don't fit
+contradiction
+
+# args:  <<*you know* = who knows>>  <<*you* = the tailor>>  <<*them* = the workers>>  <<*clothes* = dinner>>  <<*and everything like that* = out of old rags>> 
+who knows the tailor make the workers dinner out of old rags
+who knows the tailor make the workers out of old rags
+contradiction
+
