@@ -63,7 +63,7 @@ Datasets for the Numerical Reasoning phenomenon were generated similarly to the 
 For variance along the syntactic complexity dimension, we again generate 3 different datasets – one for each syntactic complexity level: *simple*, *medium* and *complex*
 
 #### Datasets structure
-Filenames are of the form Nr_Si, while S represents the *simple* complexity level. For example, the *simple* dataset for Numerical Reasoning is the set of examples appear in the directory Simple_dataset with the files {Nr_S0.txt, … Nr_S8.txt}.
+Filenames are of the form Nr_S[i], while in this case S represents the *simple* complexity level. For example, the *simple* dataset for Numerical Reasoning is the set of examples appear in the directory Simple_dataset with the files {Nr_S0.txt, … Nr_S8.txt}.
 
 #### File structure
 Same as in Dative Alternation, but with multiple templates in each file, where all templates of the same file derived from the same extracted premise and differ only in the relation expressions Relp    {more than, less than, ∅} (see Section 3.4 and Table 1 row 9).
