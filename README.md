@@ -31,7 +31,7 @@ Each hypothesis template is followed by examples automatically generated from it
 ### Lexical Dimension
 6 datasets: Simple_lex1, Simple_lex2, Simple_lex2b, Complex_lex1, Complex_lex2, Complex_lex2b
 
-For variance along the lexical dimension (see Section 3.5) we only used half of the templates of Dative Alternation (Dt_S5_… - Dt_S9_…, Dt_M6_… - Dt_M8_…, and Dt_C3_… - Dt_C8_…). As explained in that section, to create from a subset S two additional subsets S<sub>lex1</sub> and S<sub>lex2</sub> with similar syntax (yet with different words), we instantiated different arguments into the same original template. We repeat this process for the *complex* dataset.
+For variance along the lexical dimension (see Section 3.5) we only used half of the templates of Dative Alternation (Dt_S5_… - Dt_S9_…, Dt_M6_… - Dt_M8_…, and Dt_C3_… - Dt_C8_…). As explained in that section, to create from a subset S two additional subsets S<sub>Lex1</sub> and S<sub>Lex2</sub> with similar syntax (yet with different words), we instantiated different arguments into the same original template. We repeat this process for the *complex* dataset.
 
 Let’s take as an example the template we used to generate the examples in Dt_S6_give.txt:  
 **Extracted Premise** (from MultiNLI): *[You] [can] give [me] [milk and spinach].*  
