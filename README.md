@@ -34,11 +34,11 @@ Each hypothesis template is followed by examples automatically generated from it
 For variance along the lexical dimension (see Section 3.5) we only used half of the templates of Dative Alternation (Dt_S5_… - Dt_S9_…, Dt_M6_… - Dt_M8_…, and Dt_C3_… - Dt_C8_…). As explained in that section, to create from a subset S two additional subsets S<sub>lex1</sub> and S<sub>lex2</sub> with similar syntax (yet with different words), we instantiated different arguments into the same original template. We repeat this process for the *complex* dataset.
 
 Let’s take as an example the template we used to generate the examples in Dt_S6_give.txt:  
-Extracted Premise (from MultiNLI): *[You] [can] give [me] [milk and spinach].*  
-Premise Template: *ARG1 ARG2 give ARG3 ARG4.*  
-Hypothesis Template (Ent. #1): *ARG1 ARG2 give ARG4 to ARG3.*  
-Hypothesis Template (Ent. #2): *ARG1 ARG2 give ARG4.*  
-Hypothesis Template (Cont.): *ARG1 ARG2 give ARG3.*  
+**Extracted Premise** (from MultiNLI): *[You] [can] give [me] [milk and spinach].*  
+**Premise Template**: *ARG1 ARG2 give ARG3 ARG4.*  
+**Hypothesis Template** (Ent. #1): *ARG1 ARG2 give ARG4 to ARG3.*  
+**Hypothesis Template** (Ent. #2): *ARG1 ARG2 give ARG4.*  
+**Hypothesis Template** (Cont.): *ARG1 ARG2 give ARG3.*  
 
 ARG1 has the following instantiations:  
 Inst1 = *You*  
@@ -81,7 +81,7 @@ We hope to add to this collection of datasets a broader range of inference types
 
 
 
-Please feel free to contact ohadrozen@gamil.com for any questions
+Please feel free to contact ohadrozen@gmail.com for any questions.
 
 ## License
 Copyright 2019, Bar Ilan University
