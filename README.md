@@ -66,7 +66,7 @@ For variance along the syntactic complexity dimension, we again generate 3 diffe
 Filenames are of the form Nr_S[i], while in this case S represents the *simple* complexity level. For example, the *simple* dataset for Numerical Reasoning is the set of examples appear in the directory Simple_dataset with the files {Nr_S0.txt, … Nr_S8.txt}.
 
 #### File structure
-Same as in Dative Alternation, but with multiple templates in each file, where all templates of the same file derived from the same extracted premise and differ only in the relation expressions Relp    {more than, less than, ∅} (see Section 3.4 and Table 1 row 9).
+Same as in Dative Alternation, but with multiple templates in each file, where all templates of the same file derived from the same extracted premise and differ only in the relation expressions Rel<sub>p</sub> ∈ {more than, less than, ∅} (see Section 3.4 and Table 1 row 9).
 
 ### Lexical Dimension
 12 datasets, *simple* and *complex* datasets for 6 different number ranges.  
