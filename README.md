@@ -69,8 +69,8 @@ Filenames are of the form Nr_S[i], while in this case S represents the *simple* 
 Same as in Dative Alternation, but with multiple templates in each file, where all templates of the same file derived from the same extracted premise and differ only in the relation expressions Rel<sub>p</sub> ∈ {more than, less than, ∅} (see Section 3.4 and Table 1 row 9).
 
 ### Lexical Dimension
-12 datasets, *simple* and *complex* datasets for 6 different number ranges.  
-Number ranges: 30-50, 60-80, 100-199, 200-299, 400-499, 1k-10k
+Total of 16 datasets: *simple* and *complex* datasets for 6 different number ranges.  
+Number ranges: 30-50, 60-80, 100-199, 200-299, 400-499, 1k-10k. 30-50 and 100-199 ranges has both Lex1 and Lex2 versions of instantiations. The rest has only Lex2.
 
 As explained in Section 4.3, for variation across the lexical dimension, we instantiate different number ranges into NUM<sub>p</sub> (see Table 1 row 9), also appears in the dataset files as <_num_>.
 Like in the Dative Alternation case, to create additional datasets (S<sub>Lex1</sub> and S<sub>Lex2</sub>) with similar syntax (yet with different words) from the *simple* dataset (Numerical Reasoning), we again instantiated different arguments into the same original template.  We repeat this process for the *complex* dataset.
