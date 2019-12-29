@@ -79,6 +79,20 @@ To test generalization across the number range (lexical) dimension, we fine-tune
 
 We hope to add to this collection of datasets a broader range of inference types and data dimensions soon.
 
+## Citing
+If you find this work relevant to yours, please consider citing us:
+
+```
+@article{Rozen_2019,
+   title={Diversify Your Datasets: Analyzing Generalization via Controlled Variance in Adversarial Datasets},
+   url={http://dx.doi.org/10.18653/v1/k19-1019},
+   DOI={10.18653/v1/k19-1019},
+   journal={Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL)},
+   publisher={Association for Computational Linguistics},
+   author={Rozen, Ohad and Shwartz, Vered and Aharoni, Roee and Dagan, Ido},
+   year={2019}
+}
+```
 
 
 Please feel free to contact ohadrozen@gmail.com for any questions.
